@@ -1,0 +1,790 @@
+[
+    {
+        "value": 1.0,
+        "iso-a3": "AFG"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "AGO"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ALB"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "AND"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ARE"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ARG"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ARM"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ATG"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "AUS"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "AUT"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "AZE"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BDI"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BEL"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BEN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BFA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BGD"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BGR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BHR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BHS"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BIH"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BLR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BLZ"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BOL"
+    },
+    {
+        "value": 3.0,
+        "iso-a3": "BRA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BRB"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BRN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "BTN"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "BWA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CAF"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "CAN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CHE"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CHL"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "CHN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CIV"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CMR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "COD"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "COG"
+    },
+    {
+        "value": null,
+        "iso-a3": "COK"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "COL"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "COM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CPV"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CRI"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CUB"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "CYP"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "CZE"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "DEU"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "DJI"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "DMA"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "DNK"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "DOM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "DZA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ECU"
+    },
+    {
+        "value": 3.0,
+        "iso-a3": "EGY"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ERI"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ESP"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "EST"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ETH"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "FIN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "FJI"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "FRA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "FSM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GAB"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "GBR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GEO"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GHA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GIN"
+    },
+    {
+        "value": null,
+        "iso-a3": "GMB"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GNB"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "GNQ"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "GRC"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GRD"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "GTM"
+    },
+    {
+        "value": 3.0,
+        "iso-a3": "GUY"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "HND"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "HRV"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "HTI"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "HUN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "IDN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "IND"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "IRL"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "IRN"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "IRQ"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ISL"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ISR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ITA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "JAM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "JOR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "JPN"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "KAZ"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "KEN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "KGZ"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "KHM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "KIR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "KNA"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "KOR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "KWT"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "LAO"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "LBN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "LBR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "LBY"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "LCA"
+    },
+    {
+        "value": null,
+        "iso-a3": "LIE"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "LKA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "LSO"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "LTU"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "LUX"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "LVA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MAR"
+    },
+    {
+        "value": null,
+        "iso-a3": "MCO"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MDA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MDG"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MDV"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "MEX"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MHL"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MKD"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MLI"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MLT"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MMR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "MNE"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "MNG"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MOZ"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MRT"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MUS"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "MWI"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "MYS"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "NAM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "NER"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "NGA"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "NIC"
+    },
+    {
+        "value": null,
+        "iso-a3": "NIU"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "NLD"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "NOR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "NPL"
+    },
+    {
+        "value": null,
+        "iso-a3": "NRU"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "NZL"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "OMN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "PAK"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "PAN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "PER"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "PHL"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "PLW"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "PNG"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "POL"
+    },
+    {
+        "value": 3.0,
+        "iso-a3": "PRK"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "PRT"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "PRY"
+    },
+    {
+        "value": null,
+        "iso-a3": "PSE"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "QAT"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ROU"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "RUS"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "RWA"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SAU"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SDN"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SEN"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SGP"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SLB"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SLE"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SLV"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SMR"
+    },
+    {
+        "value": null,
+        "iso-a3": "SOM"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SRB"
+    },
+    {
+        "value": 3.0,
+        "iso-a3": "SSD"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "STP"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SUR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SVK"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SVN"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SWE"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SWZ"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "SYC"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "SYR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TCD"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TGO"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "THA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TJK"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "TKM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TLS"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TON"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "TTO"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TUN"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "TUR"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TUV"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "TZA"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "UGA"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "UKR"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "URY"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "USA"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "UZB"
+    },
+    {
+        "value": null,
+        "iso-a3": "VAT"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "VCT"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "VEN"
+    },
+    {
+        "value": 3.0,
+        "iso-a3": "VNM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "VUT"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "WSM"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "YEM"
+    },
+    {
+        "value": 5.0,
+        "iso-a3": "ZAF"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ZMB"
+    },
+    {
+        "value": 1.0,
+        "iso-a3": "ZWE"
+    }
+]
