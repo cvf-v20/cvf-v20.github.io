@@ -33919,11 +33919,6 @@ esign.createCountryDataView = function (year, color) {
   $('#export-chart-xls3').click(function () {
     chart.downloadCSV();
   });
-  $('#export-chart-svg3').click(function () {
-    chart.exportChartLocal({
-      type: 'image/svg+xml'
-    });
-  });
 };
 
 esign.round = function (value, decimals) {
@@ -33975,4 +33970,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-c0f3eb9995.js.map
+//# sourceMappingURL=app-0a9f9f26c1.js.map

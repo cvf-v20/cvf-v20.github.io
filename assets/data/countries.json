@@ -169,7 +169,7 @@
   { "iso-a3": "ZAF", "country": "SOUTH AFRICA" },
   { "iso-a3": "ZMB", "country": "ZAMBIA" },
   { "iso-a3": "ZWE", "country": "ZIMBABWE" },
-  { "iso-a3": "CVF", "country": "CVF/V20" },
+  { "iso-a3": "CVF", "country": "CVF" },
   { "iso-a3": "G20", "country": "G20" },
   { "iso-a3": "EU", "country": "EU" },
   { "iso-a3": "G7", "country": "G7" },
@@ -180,5 +180,117 @@
   { "iso-a3": "WORLD", "country": "WORLD" },
   { "iso-a3": "NA", "country": "Northern America" },
   { "iso-a3": "AU", "country": "Australasia" },
-  { "iso-a3": "EG", "country": "European Group" }
+  { "iso-a3": "EG", "country": "European Group" },
+  {
+    "country": "Afghanistan",
+    "iso-a3": "AFG"
+  },
+  {
+      "country": "Angola",
+      "iso-a3": "AGO"
+  },
+  {
+      "country": "Albania",
+      "iso-a3": "ALB"
+  },
+  {
+      "country": "Andorra",
+      "iso-a3": "AND"
+  },
+  {
+      "country": "United Arab Emirates",
+      "iso-a3": "ARE"
+  },
+  {
+      "country": "Antigua and Barbuda",
+      "iso-a3": "ATG"
+  },
+  {
+      "country": "Cook Islands",
+      "iso-a3": "COK"
+  },
+  {
+      "country": "Djibouti",
+      "iso-a3": "DJI"
+  },
+  {
+      "country": "Micronesia",
+      "iso-a3": "FSM"
+  },
+  {
+      "country": "Grenada",
+      "iso-a3": "GRD"
+  },
+  {
+      "country": "Kiribati",
+      "iso-a3": "KIR"
+  },
+  {
+      "country": "Saint Kitts and Nevis",
+      "iso-a3": "KNA"
+  },
+  {
+      "country": "Liechtenstein",
+      "iso-a3": "LIE"
+  },
+  {
+      "country": "Monaco",
+      "iso-a3": "MCO"
+  },
+  {
+      "country": "Marshall Islands",
+      "iso-a3": "MHL"
+  },
+  {
+      "country": "Myanmar",
+      "iso-a3": "MMR"
+  },
+  {
+      "country": "Montenegro",
+      "iso-a3": "MNE"
+  },
+  {
+      "country": "Niue",
+      "iso-a3": "NIU"
+  },
+  {
+      "country": "Nauru",
+      "iso-a3": "NRU"
+  },
+  {
+      "country": "Palau",
+      "iso-a3": "PLW"
+  },
+  {
+      "country": "North Korea",
+      "iso-a3": "PRK"
+  },
+  {
+      "country": "Palestinian Territory, Occupied",
+      "iso-a3": "PSE"
+  },
+  {
+      "country": "Qatar",
+      "iso-a3": "QAT"
+  },
+  {
+      "country": "San Marino",
+      "iso-a3": "SMR"
+  },
+  {
+      "country": "South Sudan",
+      "iso-a3": "SSD"
+  },
+  {
+      "country": "Seychelles",
+      "iso-a3": "SYC"
+  },
+  {
+      "country": "Tuvalu",
+      "iso-a3": "TUV"
+  },
+  {
+      "country": "Holy See",
+      "iso-a3": "VAT"
+  }
 ]
