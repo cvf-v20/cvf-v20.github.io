@@ -30818,6 +30818,10 @@ esign.exportMaps = function () {
     esign.cache.map.downloadCSV();
   });
 
+  $('#export-map-xls').click(function () {
+    esign.cache.map.downloadXLS();
+  });
+
   $('#export-map-svg').click(function () {
     esign.cache.map.exportChartLocal({
       type: 'image/svg+xml'
@@ -32481,6 +32485,8 @@ esign.resetExportListeners3 = function() {
   $('#export-chart-jpg3').unbind( "click" );
   $('#export-chart-pdf3').unbind( "click" );
   $('#export-chart-svg3').unbind( "click" );
+  $('#export-chart-csv3').unbind( "click" );
+  $('#export-chart-xls3').unbind( "click" );
 };
 
 
@@ -33916,8 +33922,11 @@ esign.createCountryDataView = function (year, color) {
       type: 'application/pdf'
     });
   });
-  $('#export-chart-xls3').click(function () {
+  $('#export-chart-csv3').click(function () {
     chart.downloadCSV();
+  });
+  $('#export-chart-xls3').click(function () {
+    chart.downloadXLS();
   });
 };
 
