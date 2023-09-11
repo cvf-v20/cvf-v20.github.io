@@ -55420,11 +55420,11 @@ esign.drawWarmingMap = function(data, seriesName) {
     var color;
 
     if (value === 5) {
-      color = '>3°C';
+      color = '>2°C';
     } else if (value === 3) {
       color = '<2°C';
     }  else if (value === 1) {
-      color = '<1.5°C';
+      color = '~1.5°C';
     }  else if (value === 0) {
       color = 'N/A';
     }
@@ -55788,6 +55788,8 @@ esign.loadWarmingChartData = function (color) {
   var pathGdp1950_1p5c = 'assets/data/new/gdp_1950_1p5c.json?v=' + esign.cache.version;
   var pathGdp1950_2c = 'assets/data/new/gdp_1950_2c.json?v=' + esign.cache.version;
 
+  var pathGroups = 'assets/data/new/groups.json?v=' + esign.cache.version;
+
   $.when(
     $.getJSON(pathHistoricalCond, function(data) {
       esign.cache.historicalCond = data;
@@ -55818,6 +55820,9 @@ esign.loadWarmingChartData = function (color) {
     }),
     $.getJSON(pathGdp1950_2c, function(data) {
       esign.cache.gdp1950_2c = data;
+    }),
+    $.getJSON(pathGroups, function(data) {
+      esign.cache.groups = data;
     })
   ).done(function() {
     esign.initWarmingChartEvents(color);
@@ -55858,6 +55863,27 @@ esign.initWarmingChartEvents = function (color) {
   esign.createCountryDataView(2021, color);
 }
 
+esign.loadCountryGroups = function (selectedIso) {
+  esign.cache.groups.forEach(group => {
+    if(group.name === selectedIso) {
+      esign.showCountriesFromCountryGroup(group.countries);
+    }
+  })
+}
+
+esign.showCountriesFromCountryGroup = function (countries) {
+  const grid = document.querySelector('.js-countries-grid');
+
+  countries.forEach(country => {
+    if(country.value === '1') {
+      const countryEl = document.createElement("div");
+      countryEl.classList.add('one-fifth');
+      countryEl.innerHTML = `${country['iso-3']}`;
+      grid.appendChild(countryEl);
+    }
+  })
+}
+
 esign.createCountryDataView = function (year, color) {
   const yearMin = 1990,
     yearDivide = 2021,
@@ -55871,6 +55897,9 @@ esign.createCountryDataView = function (year, color) {
 
   console.log('iso selected from cache');
   console.log(esign.cache.isoSelected);
+
+  // TODO: Finish feature to show al countries of a group with their traffic lights
+  // esign.loadCountryGroups(esign.cache.isoSelected);
 
   function getCountryIso(value) {
     return value['iso-a3'] === esign.cache.isoSelected;
@@ -56307,4 +56336,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-ffe61a97f5.js.map
+//# sourceMappingURL=app-45ad2577b3.js.map
