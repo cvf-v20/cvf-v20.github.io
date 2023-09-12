@@ -53142,6 +53142,12 @@ esign.exportMaps = function () {
     });
   });
 
+  $('#export-map-svg').click(function () {
+    esign.cache.map.exportChartLocal({
+      type: 'image/svg+xml'
+    });
+  });
+
   $('#export-map-csv').click(function () {
     esign.cache.map.downloadCSV();
   });
@@ -55776,6 +55782,7 @@ esign.openWarmingChart = function(color, valueCond, valueUncond) {
 esign.loadWarmingChartData = function (color) {
   var pathHistoricalCond = 'assets/data/new/historical_cond.json?v=' + esign.cache.version;
   var pathNdcCond = 'assets/data/new/ndc_cond.json?v=' + esign.cache.version;
+  var pathNdcUncond = 'assets/data/new/ndc_uncond.json?v=' + esign.cache.version;
 
   // Approach data
   var pathHdi1990_1p5c = 'assets/data/new/hdi_1990_1p5c.json?v=' + esign.cache.version;
@@ -55796,6 +55803,9 @@ esign.loadWarmingChartData = function (color) {
     }),
     $.getJSON(pathNdcCond, function(data) {
       esign.cache.ndcCond = data;
+    }),
+    $.getJSON(pathNdcUncond, function(data) {
+      esign.cache.ndcUncond = data;
     }),
     $.getJSON(pathHdi1990_1p5c, function(data) {
       esign.cache.hdi1990_1p5c = data;
@@ -55908,6 +55918,7 @@ esign.createCountryDataView = function (year, color) {
   // new data (cond)
   const dataHistory = esign.cache.historicalCond.filter(getCountryIso);
   const dataNdc = esign.cache.ndcCond.filter(getCountryIso);
+  const dataNdcUncond = esign.cache.ndcUncond.filter(getCountryIso);
   const dataHdi1990_1p5c = esign.cache.hdi1990_1p5c.filter(getCountryIso);
   const dataHdi1990_2c = esign.cache.hdi1990_2c.filter(getCountryIso);
   const dataGdp1990_1p5c = esign.cache.gdp1990_1p5c.filter(getCountryIso);
@@ -55918,7 +55929,7 @@ esign.createCountryDataView = function (year, color) {
   const dataGdp1950_1p5c = esign.cache.gdp1950_1p5c.filter(getCountryIso);
   const dataGdp1950_2c = esign.cache.gdp1950_2c.filter(getCountryIso);
 
-  let trajectoryHistory = [], trajectoryNDC = [], trajectoryHdi1990_1p5c = [], trajectoryHdi1990_2c = [], trajectoryGdp1990_1p5c = [], trajectoryGdp1990_2c = [], trajectoryHdi1950_1p5c = [], trajectoryHdi1950_2c = [], trajectoryGdp1950_1p5c = [], trajectoryGdp1950_2c = [];
+  let trajectoryHistory = [], trajectoryNDC = [], trajectoryNdcCondRange = [], trajectoryNdcUncond = [], trajectoryNdcUncondRange = [], trajectoryHdi1990_1p5c = [], trajectoryHdi1990_2c = [], trajectoryGdp1990_1p5c = [], trajectoryGdp1990_2c = [], trajectoryHdi1950_1p5c = [], trajectoryHdi1950_2c = [], trajectoryGdp1950_1p5c = [], trajectoryGdp1950_2c = [];
   let maxValue = 0;
 
   if(esign.cache.isAbsolute) {
@@ -55926,7 +55937,6 @@ esign.createCountryDataView = function (year, color) {
       // Mega to kilo
       if(dataHistory.length != 0) {
         trajectoryHistory.push([i, (dataHistory[0][i] * 1000)]);
-        // max([dataHistory[0][i]]);
       }
     }
     // Giga to kilo
@@ -55943,16 +55953,15 @@ esign.createCountryDataView = function (year, color) {
       max([dataHdi1990_1p5c[0][i] * 1000000, dataHdi1990_2c[0][i] * 1000000, dataGdp1990_1p5c[0][i] * 1000000, dataGdp1990_2c[0][i] * 1000000, dataHdi1950_1p5c[0][i] * 1000000, dataHdi1950_2c[0][i] * 1000000, dataGdp1950_1p5c[0][i] * 1000000, dataGdp1950_2c[0][i] * 1000000]);
     }
 
-    // TODO move/rework?
     // Mega to kilo
     if(dataNdc.length != 0) {
-      trajectoryNDC = [{
-        x: '2030',
-        low: dataNdc[0].low * 1000,
-        high: dataNdc[0].high * 1000,
-        color: "#ADD8E6",
-        lowColor: "#ADD8E6",
-      }]
+      trajectoryNDC.push([2030, (dataNdc[0].avg * 1000)]);
+      trajectoryNdcCondRange.push([dataNdc[0].low * 1000, dataNdc[0].high * 1000]);
+    }
+
+    if(dataNdcUncond.length != 0) {
+      trajectoryNdcUncond.push([2030, (dataNdcUncond[0].avg * 1000)]);
+      trajectoryNdcUncondRange.push([dataNdcUncond[0].low * 1000, dataNdcUncond[0].high * 1000]);
     }
   } else {
     for(var i = yearMin; i <= yearDivide; i++) {
@@ -55961,15 +55970,14 @@ esign.createCountryDataView = function (year, color) {
       }
     }
 
-    // TODO move/rework?
     if(dataNdc.length != 0) {
-      trajectoryNDC = [{
-        x: '2030',
-        low: (dataNdc[0].low/dataHistory[0][year])*100,
-        high: (dataNdc[0].high/dataHistory[0][year])*100,
-        color: "#ADD8E6",
-        lowColor: "#ADD8E6",
-      }]
+      trajectoryNDC.push([2030, (dataNdc[0].avg/dataHistory[0][year])*100]);
+      trajectoryNdcCondRange.push([(dataNdc[0].low/dataHistory[0][year])*100, (dataNdc[0].high/dataHistory[0][year])*100]);
+    }
+
+    if(dataNdcUncond.length != 0) {
+      trajectoryNdcUncond.push([2030, (dataNdcUncond[0].avg/dataHistory[0][year])*100]);
+      trajectoryNdcUncondRange.push([(dataNdcUncond[0].low/dataHistory[0][year])*100, (dataNdcUncond[0].high/dataHistory[0][year])*100]);
     }
 
     for(var i = yearMin; i <= yearMax; i++) {
@@ -56146,17 +56154,60 @@ esign.createCountryDataView = function (year, color) {
       }]
     },
     {
+      id: 'ndc-cond',
       name: 'NDC conditional',
-      type: 'dumbbell',
-      inverted: false,
-      zIndex: 15,
       data: trajectoryNDC,
-      color: '#ADD8E6',
-      connectorWidth: 2,
-      connectorColor: "#4682B4",
+      type: 'scatter',
+      zIndex: 999,
       marker: {
+        lineWidth: 0,
         radius: 8,
+        fillColor: '#91EF8F',
+        symbol: 'circle',
+        enabled: !!trajectoryNDC
       },
+      showInLegend: true
+    },
+    {
+      name: 'NDC conditional',
+      data: trajectoryNdcCondRange,
+      type: 'errorbar',
+      zIndex: 998,
+      showInLegend: false,
+      linkedTo: 'ndc-cond',
+      pointStart: trajectoryNDC[0][0],
+      stemWidth: 2,
+      pointWidth: 3,
+      color: '#9A9A9A',
+      animation: false,
+    },
+    {
+      id: 'ndc-uncond',
+      name: 'NDC unconditional',
+      data: trajectoryNdcUncond,
+      type: 'scatter',
+      zIndex: 999,
+      marker: {
+        lineWidth: 0,
+        radius: 8,
+        fillColor: '#036400',
+        symbol: 'circle',
+        enabled: !!trajectoryNdcUncond
+      },
+      showInLegend: true
+    },
+    {
+      name: 'NDC unconditional',
+      data: trajectoryNdcUncondRange,
+      type: 'errorbar',
+      zIndex: 998,
+      showInLegend: false,
+      linkedTo: 'ndc-uncond',
+      pointStart: trajectoryNdcUncond[0][0],
+      stemWidth: 2,
+      pointWidth: 3,
+      color: '#9A9A9A',
+      animation: false,
     },
     {
       name: `Approach GDP (1.5°C, ${esign.cache.responsibilitySince})`,
@@ -56284,6 +56335,11 @@ esign.createCountryDataView = function (year, color) {
   });
   $('#export-chart-xls3').click(function () {
     chart.downloadXLS();
+  });
+  $('#export-chart-svg3').click(function () {
+    chart.exportChartLocal({
+      type: 'image/svg+xml'
+    });
   });
 };
 
