@@ -10376,6 +10376,9 @@ article a:focus img {
   z-index: 1;
   pointer-events: none;
   padding: 15px 0;
+  right: 0;
+  left: 0;
+  padding: 20px;
 }
 .toolbar-top a,
 .toolbar-top-graph a {
@@ -10384,6 +10387,9 @@ article a:focus img {
 .toolbar-top h1,
 .toolbar-top-graph h1 {
   text-transform: none;
+  font-size: 16px;
+  font-size: 1.6rem;
+  pointer-events: all;
 }
 .toolbar-top h1 .icon-info,
 .toolbar-top-graph h1 .icon-info {
@@ -10407,28 +10413,15 @@ article a:focus img {
   line-height: 34px;
   color: #1f2624;
 }
-@media (min-width: 47em) {
-  .toolbar-top,
-  .toolbar-top-graph {
-    position: absolute;
-  }
-}
-.toolbar-top,
-.toolbar-top-graph {
-  right: 0;
-  left: 0;
-  padding: 20px;
-}
-.toolbar-top h1,
-.toolbar-top-graph h1 {
-  font-size: 16px;
-  font-size: 1.6rem;
-  pointer-events: all;
-}
 @media (max-width: 47em) {
   .toolbar-top .a-c,
   .toolbar-top-graph .a-c {
     text-align: left;
+  }
+}
+@media (min-width: 47em) {
+  .toolbar-top {
+    position: absolute;
   }
 }
 .toolbar-top-graph {
@@ -11700,4 +11693,4 @@ article a:focus img {
 
 /*# sourceMappingURL=style.css.map */
 
-/*# sourceMappingURL=style-5660b20eb0.css.map */
+/*# sourceMappingURL=style-6fe4942d29.css.map */

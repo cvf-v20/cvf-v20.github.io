@@ -54845,9 +54845,8 @@ esign.warmingMap = function() {
   var $triggerModal1950 = $('.resp-modal-1950');
   var $triggerGDP = $('.approach-gdp');
   var $triggerHDI = $('.approach-hdi');
-
-  console.log($triggerModal1990);
-  console.log($triggerModal1950);
+  var $triggerModalGDP = $('.approach-modal-gdp');
+  var $triggerModalHDI = $('.approach-modal-hdi');
 
   // 1990
   $trigger1990.click(function (e) {
@@ -54877,14 +54876,16 @@ esign.warmingMap = function() {
     esign.loadWarmingMapData();
   });
 
-  // GDP
+  // HDI
   $triggerHDI.click(function (e) {
     e.preventDefault();
     console.log('hdi');
     esign.cache.approachMode = 'hdi';
     ///
     $triggerGDP.removeClass('active');
+    $triggerModalGDP.removeClass('active');
     $triggerHDI.addClass('active');
+    $triggerModalHDI.addClass('active');
     esign.loadWarmingMapData();
   });
 
@@ -54895,7 +54896,9 @@ esign.warmingMap = function() {
     esign.cache.approachMode = 'gdp';
     ///
     $triggerHDI.removeClass('active');
+    $triggerModalHDI.removeClass('active');
     $triggerGDP.addClass('active');
+    $triggerModalGDP.addClass('active');
     esign.loadWarmingMapData();
   });
 };
@@ -55733,17 +55736,18 @@ esign.openWarmingChart = function(color, valueCond, valueUncond) {
   setTrafficLightCond(true, valueCond);
   setTrafficLightUncond(true, valueUncond);
 
-
   // TODO make globally avaiable? Are defined twice now
   var $trigger1990 = $('.resp-1990');
   var $trigger1950 = $('.resp-1950');
   var $triggerModal1990 = $('.resp-modal-1990');
   var $triggerModal1950 = $('.resp-modal-1950');
+  var $triggerGDP = $('.approach-gdp');
+  var $triggerHDI = $('.approach-hdi');
+  var $triggerModalGDP = $('.approach-modal-gdp');
+  var $triggerModalHDI = $('.approach-modal-hdi');
 
-  // TODO triggers modal dates
   $triggerModal1990.click(function (e) {
     e.preventDefault();
-    console.log('1990');
     esign.cache.responsibilitySince = 1990;
 
     $trigger1950.removeClass('active');
@@ -55752,11 +55756,11 @@ esign.openWarmingChart = function(color, valueCond, valueUncond) {
     $trigger1990.addClass('active');
     $triggerModal1990.addClass('active');
     esign.loadWarmingChartData(color);
+    esign.updateTrafficLights();
   });
 
   $triggerModal1950.click(function (e) {
     e.preventDefault();
-    console.log('1950');
     esign.cache.responsibilitySince = 1950;
     ///
     $trigger1990.removeClass('active');
@@ -55765,6 +55769,35 @@ esign.openWarmingChart = function(color, valueCond, valueUncond) {
     $trigger1950.addClass('active');
     $triggerModal1950.addClass('active');
     esign.loadWarmingChartData(color);
+    esign.updateTrafficLights();
+  });
+
+  // HDI
+  $triggerModalHDI.click(function (e) {
+    e.preventDefault();
+    esign.cache.approachMode = 'hdi';
+    ///
+    $triggerGDP.removeClass('active');
+    $triggerModalGDP.removeClass('active');
+    $triggerHDI.addClass('active');
+    $triggerModalHDI.addClass('active');
+
+    esign.loadWarmingChartData(color);
+    esign.updateTrafficLights();
+  });
+
+  // GDP
+  $triggerModalGDP.click(function (e) {
+    e.preventDefault();
+    esign.cache.approachMode = 'gdp';
+    ///
+    $triggerHDI.removeClass('active');
+    $triggerModalHDI.removeClass('active');
+    $triggerGDP.addClass('active');
+    $triggerModalGDP.addClass('active');
+
+    esign.loadWarmingChartData(color);
+    esign.updateTrafficLights();
   });
 
   // TODO check if statement
@@ -55777,6 +55810,35 @@ esign.openWarmingChart = function(color, valueCond, valueUncond) {
     esign.initWarmingChartEvents(color);
   }
 };
+
+esign.updateTrafficLights = function() {
+  function getCountryIso(value) {
+    return value['iso-a3'] === esign.cache.isoSelected;
+  }
+
+  let valueCond, valueUncond;
+  if(esign.cache.approachMode === 'hdi') {
+    if(esign.cache.responsibilitySince === 1950) {
+      valueCond = esign.cache.warmingHdi1950.filter(getCountryIso);
+      valueUncond = esign.cache.warmingHdi1950Uncond.filter(getCountryIso);
+
+    } else if(esign.cache.responsibilitySince === 1990) {
+      valueCond = esign.cache.warmingHdi1990.filter(getCountryIso);
+      valueUncond = esign.cache.warmingHdi1990Uncond.filter(getCountryIso);
+    }
+  } else if (esign.cache.approachMode === 'gdp') {
+    if(esign.cache.responsibilitySince === 1950) {
+      valueCond = esign.cache.warmingGdp1950.filter(getCountryIso);
+      valueUncond = esign.cache.warmingGdp1950Uncond.filter(getCountryIso);
+    } else if(esign.cache.responsibilitySince === 1990) {
+      valueCond = esign.cache.warmingGdp1990.filter(getCountryIso);
+      valueUncond = esign.cache.warmingGdp1990Uncond.filter(getCountryIso);
+    }
+  }
+
+  setTrafficLightCond(true, valueCond[0].value);
+  setTrafficLightUncond(true, valueUncond[0].value);
+}
 
 /* Load warming chart data */
 esign.loadWarmingChartData = function (color) {
@@ -56209,42 +56271,14 @@ esign.createCountryDataView = function (year, color) {
       color: '#9A9A9A',
       animation: false,
     },
-    {
-      name: `Approach GDP (1.5°C, ${esign.cache.responsibilitySince})`,
-      data: esign.cache.responsibilitySince === 1990 ? trajectoryGdp1990_1p5c : trajectoryGdp1950_1p5c,
-      zIndex: 10,
-      color: '#FE5336',
-      lineWidth: 3.5,
-      marker: {
-        lineWidth: 0,
-        radius: 0,
-        symbol: 'circle',
-        lineColor: 'transparent'
-      },
-      zoneAxis: 'x',
-      zones: [{
-        value: 2021,
-        color: 'transparent'
-      }]
-    },{
-      name: `Approach GDP (2°C, ${esign.cache.responsibilitySince})`,
-      data: esign.cache.responsibilitySince === 1990 ? trajectoryGdp1990_2c : trajectoryGdp1950_2c,
-      zIndex: 10,
-      color: '#FE5336',
-      dashStyle: 'ShortDash',
-      lineWidth: 3.5,
-      marker: {
-        lineWidth: 0,
-        radius: 0,
-        symbol: 'circle',
-        lineColor: 'transparent'
-      },
-      zoneAxis: 'x',
-      zones: [{
-        value: 2021,
-        color: 'transparent'
-      }]
-    },{
+  ]
+  };
+
+  // Create country data chart, with defined chartOptions above;
+  const chart = new Highcharts.Chart(chartOptions);
+
+  if (esign.cache.approachMode === 'hdi') {
+    chart.addSeries({
       name: `Approach HDI (1.5°C, ${esign.cache.responsibilitySince})`,
       data: esign.cache.responsibilitySince === 1990 ? trajectoryHdi1990_1p5c : trajectoryHdi1950_1p5c,
       zIndex: 10,
@@ -56261,7 +56295,8 @@ esign.createCountryDataView = function (year, color) {
         value: 2021,
         color: 'transparent'
       }]
-    },{
+    });
+    chart.addSeries({
       name: `Approach HDI (2°C, ${esign.cache.responsibilitySince})`,
       data: esign.cache.responsibilitySince === 1990 ? trajectoryHdi1990_2c : trajectoryHdi1950_2c,
       zIndex: 10,
@@ -56279,13 +56314,50 @@ esign.createCountryDataView = function (year, color) {
         value: 2021,
         color: 'transparent'
       }]
-    }
-  ]
-  };
+    });
+  }
 
-  // Create country data chart
-  var chart = new Highcharts.Chart(chartOptions);
+  if (esign.cache.approachMode === 'gdp') {
+    chart.addSeries({
+      name: `Approach GDP (1.5°C, ${esign.cache.responsibilitySince})`,
+      data: esign.cache.responsibilitySince === 1990 ? trajectoryGdp1990_1p5c : trajectoryGdp1950_1p5c,
+      zIndex: 10,
+      color: '#FE5336',
+      lineWidth: 3.5,
+      marker: {
+        lineWidth: 0,
+        radius: 0,
+        symbol: 'circle',
+        lineColor: 'transparent'
+      },
+      zoneAxis: 'x',
+      zones: [{
+        value: 2021,
+        color: 'transparent'
+      }]
+    });
+    chart.addSeries({
+      name: `Approach GDP (2°C, ${esign.cache.responsibilitySince})`,
+      data: esign.cache.responsibilitySince === 1990 ? trajectoryGdp1990_2c : trajectoryGdp1950_2c,
+      zIndex: 10,
+      color: '#FE5336',
+      dashStyle: 'ShortDash',
+      lineWidth: 3.5,
+      marker: {
+        lineWidth: 0,
+        radius: 0,
+        symbol: 'circle',
+        lineColor: 'transparent'
+      },
+      zoneAxis: 'x',
+      zones: [{
+        value: 2021,
+        color: 'transparent'
+      }]
+    });
+  }
 
+  // Create tooltip
   chart.tooltip.options.formatter = function() {
     var points = this.points || Highcharts.splat(this),
       txt = '';
@@ -56392,4 +56464,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-76ea0d52bc.js.map
+//# sourceMappingURL=app-961b770c61.js.map
