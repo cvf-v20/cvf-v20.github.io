@@ -55972,9 +55972,13 @@ esign.showCountriesFromCountryGroup = function (countries, overview) {
   const grid = document.querySelector('.js-countries-grid');
   grid.innerHTML = ``;
 
+  console.log(countries);
+
   countries.forEach(country => {
     if(country.value === '1') {
       const countryData = esign.cache.countries.filter((el) => el["iso-a3"] === country['iso-3']);
+
+      console.log(countryData);
 
       if(countryData[0]) {
         const countryEl = document.createElement("div");
@@ -56591,4 +56595,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-953556ea6a.js.map
+//# sourceMappingURL=app-fa1c8138b1.js.map
