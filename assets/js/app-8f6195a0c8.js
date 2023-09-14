@@ -55858,6 +55858,7 @@ esign.loadWarmingChartData = function (color) {
 
   var pathGroups = 'assets/data/new/groups.json?v=' + esign.cache.version;
   var pathNatTargets = 'assets/data/new/national-targets.json?v=' + esign.cache.version;
+  var pathIndicators = 'assets/data/new/indicators.json?v=' + esign.cache.version;
 
   $.when(
     $.getJSON(pathHistoricalCond, function(data) {
@@ -55895,6 +55896,9 @@ esign.loadWarmingChartData = function (color) {
     }),
     $.getJSON(pathGroups, function(data) {
       esign.cache.groups = data;
+    }),
+    $.getJSON(pathIndicators, function(data) {
+      esign.cache.indicators = data;
     }),
     $.getJSON(pathNatTargets, function(data) {
       esign.cache.natTargets = data;
@@ -55945,6 +55949,21 @@ esign.initWarmingChartEvents = function (color) {
   }
 
   esign.createCountryDataView(2021, color);
+  esign.createCountryIndicators();
+}
+
+esign.createCountryIndicators = function() {
+  function getCountryIso(value) {
+    return value['iso-a3'] === esign.cache.isoSelected;
+  }
+  const data = esign.cache.indicators.filter(getCountryIso);
+
+  const currCapita = document.querySelector('.js-country-capita');
+  currCapita.innerHTML = data[0]['current-capita'];
+  const currGlobalEmission = document.querySelector('.js-country-global-emissions');
+  console.log(currGlobalEmission);
+  currGlobalEmission.innerHTML = data[0]['global-emissions'];
+  console.log(data);
 }
 
 esign.showCountryTargetNote = function(data) {
@@ -56595,4 +56614,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-fa1c8138b1.js.map
+//# sourceMappingURL=app-8f6195a0c8.js.map
