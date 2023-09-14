@@ -7220,8 +7220,8 @@ h3,
 @media (min-width: 47em) {
   h3,
   .h3 {
-    font-size: 22px;
-    font-size: 2.2rem;
+    font-size: 20px;
+    font-size: 2rem;
   }
 }
 @media (min-width: 47em) {
@@ -11390,11 +11390,6 @@ article a:focus img {
 }
 .warming .tool hr {
   margin: 0 0 8px;
-}
-.warming .highcharts-legend-item .highcharts-point {
-  -webkit-transform: scale(0.7) translate(3px, 3px);
-  -ms-transform: scale(0.7) translate(3px, 3px);
-  transform: scale(0.7) translate(3px, 3px);
 }
 .warming .temperature-toggle,
 .warming .temperature-toggle-updated,

@@ -1,0 +1,106 @@
+[
+    {
+        "name": "France",
+        "note": "Note: using PEC hist data to calculate the 1990 target of 40% wrt 2010. <a href='https://ec.europa.eu/energy/sites/ener/files/documents/fr_final_necp_main_en.pdf'>https://ec.europa.eu/energy/sites/ener/files/documents/fr_final_necp_main_en.pdf</a>, at p. 318.",
+        "year": 1990,
+        "label": "40% below 1990",
+        "percentage": 40,
+        "iso-a3": "FRA"
+    },
+    {
+        "name": "Germany",
+        "note": "Note: using PEC hist data to calculate the 1990 target of 65% wrt 2010. Federal Ministry of Justice and Consumer Protection, Federal Climate Change Act (2021) <a href='https://www.gesetze-im-internet.de/englisch_ksg/englisch_ksg.html#p0028'>https://www.gesetze-im-internet.de/englisch_ksg/englisch_ksg.html#p0028</a>, at sections 3 and 3a.",
+        "year": 1990,
+        "label": "65% below 1990",
+        "percentage": 65,
+        "iso-a3": "DEU"
+    },
+    {
+        "name": "Czech Republic",
+        "note": "Note: 30% below 2005, that is 48% below 1990 excl.LULUCF <a href='https://ec.europa.eu/energy/sites/ener/files/documents/cs_final_necp_main_en.pdf'>https://ec.europa.eu/energy/sites/ener/files/documents/cs_final_necp_main_en.pdf</a> at p.12; https://ec.europa.eu/energy/sites/ener/files/documents/cs_final_necp_main_en.pdf",
+        "year": 2055,
+        "label": "30% below 2005",
+        "percentage": 30,
+        "iso-a3": "CZE"
+    },
+    {
+        "name": "Denmark",
+        "note": "Note: 70% reduction to 1990 incl. LULUCF but no specification on LULUCF amount",
+        "year": 1990,
+        "label": "70% below 1990",
+        "percentage": 70,
+        "iso-a3": "DNK"
+    },
+    {
+        "name": "Estonia",
+        "note": "Note: 70% by 2030 compared to 1990 <a href='https://ec.europa.eu/energy/sites/ener/files/documents/ee_final_necp_main_en.pdf'>https://ec.europa.eu/energy/sites/ener/files/documents/ee_final_necp_main_en.pdf</a>",
+        "year": 1990,
+        "label": "70% below 1990",
+        "percentage": 70,
+        "iso-a3": "EST"
+    },
+    {
+        "name": "Greece",
+        "note": "Note: 42% relative to 1990 levels,211 excluding LULUCF emissions. <a href='https://www.oecd-ilibrary.org/sites/ff34a34b-en/index.html?itemId=/content/component/ff34a34b-en'>https://www.oecd-ilibrary.org/sites/ff34a34b-en/index.html?itemId=/content/component/ff34a34b-en</a>, at section 4.3.2.",
+        "year": 1990,
+        "label": "42% below 1990",
+        "percentage": 42,
+        "iso-a3": "GRC"
+    },
+    {
+        "name": "Hungary",
+        "note": "Note: 40% compared to 1990 levels by 2030\u201d.214 Hungary\u2019s NECP does not specify whether the target includes LULUCF emissions or not, but it compares this target to emissions projections excluding LULUCF. <a href='https://ec.europa.eu/energy/sites/default/files/documents/hu_final_necp_main_en.pdf'>https://ec.europa.eu/energy/sites/default/files/documents/hu_final_necp_main_en.pdf</a>, at p. 158.",
+        "year": 1990,
+        "label": "40% below 1990",
+        "percentage": 40,
+        "iso-a3": "HUN"
+    },
+    {
+        "name": "Ireland",
+        "note": "Notes: Using PRIMAPHIST, 2018 emissions ~2010. \u201ca 51% reduction on 2018 levels of emissions by 2030\u201d as the 2030 target contained in its Climate Action and Low Carbon Development (Amendment) Bill 2021.217 This Bill has since been enacted.218 This target includes LULUCF emissions and, in calculating the first carbon budgets under the Climate Action and Low Carbon Development Act, Ireland\u2019s Climate Change Advisory Council \u201chas assumed a 51% emissions reduction in the LULUCF sector in the period to 2030\u201d,219 i.e. that the target applies to LULUCF emissions and non-LULUCF emissions equally. 218 See the Climate Action and Low Carbon Development (Amendment) Act 2021 <a href=''>https://www.irishstatutebook.ie/eli/2021/act/32/enacted/en/html</a>.\n219 Climate Change Advisory Council, Carbon Budget Technical Report (October 2021) <a href=''>https://www.climatecouncil.ie/media/climatechangeadvisorycouncil/Technical%20report%20on%20carbon%20budgets%2025.10.2021.pdf</a>, at p. 6.",
+        "year": 2018,
+        "label": "51% below 2018",
+        "percentage": 51,
+        "iso-a3": "IRL"
+    },
+    {
+        "name": "Latvia",
+        "note": "Note: 65% relative to 1990 levels, excluding LULUCF. 65% relative to 1990 levels, excluding LULUCF",
+        "year": 1990,
+        "label": "65% below 1990",
+        "percentage": 65,
+        "iso-a3": "LVA"
+    },
+    {
+        "name": "Lithuania",
+        "note": "Note: 1990 by 70 per cent by 2030. incl LULUCF. Parliament of Lithuania, Ruling on the adoption of a national climate change agenda (2021), <a href=''>https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/ba67ae20d5a111eb866fe2e083228059?positionInSearchResults=1&searchModelUUID=ac1a49e8-1f4f-4dc6-b6ed-aefce7872e19</a>",
+        "year": 1990,
+        "label": "70% below 1990",
+        "percentage": 70,
+        "iso-a3": "LTU"
+    },
+    {
+        "name": "The Netherlands",
+        "note": "Note: 49% below 1990. Planbureau voor de Leefomgeving, Analyse Regeerakkoord Rutte-III: Effecten Op Klimaat En Energie (2017) <a href=''>https://www.pbl.nl/sites/default/files/downloads/pbl-2017-analyse-regeerakkoord-rutte-III-effecten-op-klimaat-en-energie_3009.pdf</a>, at p. 7.",
+        "year": 1990,
+        "label": "49% below 1990",
+        "percentage": 49,
+        "iso-a3": "NLD"
+    },
+    {
+        "name": "Portugal",
+        "note": "Note: from -45% to - 55% in 2030\u2026compared to 2005 levels. Government of Portugal, National Energy and Climate Plan 2021-2030 (2019) <a href=''>https://ec.europa.eu/energy/sites/default/files/documents/pt_final_necp_main_en.pdf</a>, at p. 31.",
+        "year": 2005,
+        "label": "45% to 55% below 2005",
+        "percentage": 45,
+        "iso-a3": "PRT"
+    },
+    {
+        "name": "Spain",
+        "note": "Note: 23% below 1990. Government of Spain, Integrated National Energy and Climate Plan 2021-2030 (2020) <a href=''>https://ec.europa.eu/energy/sites/default/files/documents/es_final_necp_main_en.pdf</a>, at p. 114;",
+        "year": 1990,
+        "label": "23% below 1990",
+        "percentage": 23,
+        "iso-a3": "ESP"
+    }
+]

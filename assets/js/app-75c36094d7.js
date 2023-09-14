@@ -55857,6 +55857,7 @@ esign.loadWarmingChartData = function (color) {
   var pathGdp1950_2c = 'assets/data/new/gdp_1950_2c.json?v=' + esign.cache.version;
 
   var pathGroups = 'assets/data/new/groups.json?v=' + esign.cache.version;
+  var pathNatTargets = 'assets/data/new/national-targets.json?v=' + esign.cache.version;
 
   $.when(
     $.getJSON(pathHistoricalCond, function(data) {
@@ -55894,6 +55895,9 @@ esign.loadWarmingChartData = function (color) {
     }),
     $.getJSON(pathGroups, function(data) {
       esign.cache.groups = data;
+    }),
+    $.getJSON(pathNatTargets, function(data) {
+      esign.cache.natTargets = data;
     })
   ).done(function() {
     esign.initWarmingChartEvents(color);
@@ -55930,7 +55934,26 @@ esign.initWarmingChartEvents = function (color) {
     }
   });
 
+
+  // TODO relocate?
+  function getCountryIso(value) {
+    return value['iso-a3'] === esign.cache.isoSelected;
+  }
+  const target = esign.cache.natTargets.filter(getCountryIso);
+  if(target.length != 0) {
+    esign.showCountryTargetNote(target[0]);
+  }
+
   esign.createCountryDataView(2021, color);
+}
+
+esign.showCountryTargetNote = function(data) {
+  const container = document.querySelector('.js-target-notes');
+  container.innerHTML = `
+  <div class="mb60 mt40">
+    <h3>Information on the national emissions target:</h3>
+    <p>${data.note}</p>
+  </div>`;
 }
 
 esign.loadCountryGroups = function (selectedIso) {
@@ -56336,6 +56359,49 @@ esign.createCountryDataView = function (year, color) {
   // Create country data chart, with defined chartOptions above;
   const chart = new Highcharts.Chart(chartOptions);
 
+  const target = esign.cache.natTargets.filter(getCountryIso);
+  if(target.length != 0) {
+    const targetHistoryValue = trajectoryHistory.filter((el) => el[0] === target[0].year);
+    const startValue = targetHistoryValue[0][1];
+    const targetValue = startValue * ((100 - target[0].percentage) / 100);
+
+    if(target[0]["iso-a3"] === 'PRT') {
+      const targetValueA = startValue * ((100 - 45) / 100);
+      const targetValueB = startValue * ((100 - 55) / 100);
+
+      chart.addSeries({
+        name: `National target range, (${target[0].label})`,
+        data: [[targetValueA, targetValueB]],
+        type: 'errorbar',
+        zIndex: 998,
+        showInLegend: true,
+        pointStart: 2030,
+        stemWidth: 2,
+        pointWidth: 3,
+        color: '#0000FF',
+        animation: false,
+      });
+    } else {
+      chart.addSeries({
+        name: `National target, (${target[0].label})`,
+        data: [[2030, targetValue]],
+        type: 'scatter',
+        zIndex: 999,
+        marker: {
+          symbol:
+            "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAR5JREFUeNqUVFEVwjAMzDBAJcwBkzApk1AJSEDCJFTCJBQHkxAHI4UGjpBuj7x3H22aa5JrQ9u2kYXYIJgFWbAByvom6N04QxIEyRC0UEgDxneVhLquK9ksgjN97F7J9aJRcDH+UTj4uYKMGG5dmqW8CLMpPbzLNKXNHonTDiS8aoUDZnREZAhXiC3rp2q60Tuqplr27PgniI0E6WaHiI2CbBWEM+kE6iz0bdEoS3UdzV5WtU+wyeZQT38akgXjWxsxvEfY6lnv9Czv9Yzqt9DDoyP/tSI6RKjmpBk0bz54Z4wqq+P2D6HzAyJ+J+sszZ8aRJPpZfoZQQ6hpr8ArCAJq6BGw49mGWtp7jxDk9kWajmjeX9cs0nvGQb2EGAAfgvEdC8IS/gAAAAASUVORK5CYII=)"
+          //"url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOdJREFUeNqsVG0RwyAMBRRUAg42CZVQCZVQCZNQCcwBEjoHzEEl1EGX7ODuLYWuP5K7d1CaPBLyYfd9N1KstZ6WIaMj3AgvwkaIDLLbDoZMVpANZz7+Ayaa0PZrL4jSBSJEOJA1iFa+ndATfF7n7FWVsJDJ0B4yBBFBFPpjeXt/lUiQIuFayNCrVPFi5As4s5V/GDJn3izS3ZN3DIIQHZmNUPagODUyeAedAc4XJ2puhc/O1GWA/U/hukrlVxVBYutCl9ukSA/7QHgLoid5nxr6ST2benWm2gHqvak6NbTmmdWctB8BBgBtMbCsf1XVtQAAAABJRU5ErkJggg==)"
+          ,
+          lineWidth: 2,
+          radius: 8,
+          lineColor: 'black',
+          fillColor: 'black'
+        },
+        showInLegend: true
+      });
+    }
+  }
+
   if (esign.cache.approachMode === 'hdi') {
     chart.addSeries({
       name: `Approach HDI (1.5°C, ${esign.cache.responsibilitySince})`,
@@ -56523,4 +56589,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-f00893b3b7.js.map
+//# sourceMappingURL=app-75c36094d7.js.map
