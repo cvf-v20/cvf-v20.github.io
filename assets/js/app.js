@@ -55976,33 +55976,35 @@ esign.showCountriesFromCountryGroup = function (countries, overview) {
     if(country.value === '1') {
       const countryData = esign.cache.countries.filter((el) => el["iso-a3"] === country['iso-3']);
 
-      const countryEl = document.createElement("div");
-      countryEl.classList.add('countries-grid__item');
-      countryEl.innerHTML = `
-        <div class="modal-traffic-lights">
-          <div>
-            <div class="traffic-light traffic-light-cond" data-iso="${country['iso-3']}">
-              <span class="red"></span>
-              <span class="orange"></span>
-              <span class="green"></span>
+      if(countryData[0]) {
+        const countryEl = document.createElement("div");
+        countryEl.classList.add('countries-grid__item');
+        countryEl.innerHTML = `
+          <div class="modal-traffic-lights">
+            <div>
+              <div class="traffic-light traffic-light-cond" data-iso="${country['iso-3']}">
+                <span class="red"></span>
+                <span class="orange"></span>
+                <span class="green"></span>
+              </div>
+              <span class="traffic-light__subtitle">cond.</span>
             </div>
-            <span class="traffic-light__subtitle">cond.</span>
-          </div>
 
-          <div>
-            <div class="traffic-light traffic-light-uncond" data-iso="${country['iso-3']}">
-              <span class="red"></span>
-              <span class="orange"></span>
-              <span class="green"></span>
+            <div>
+              <div class="traffic-light traffic-light-uncond" data-iso="${country['iso-3']}">
+                <span class="red"></span>
+                <span class="orange"></span>
+                <span class="green"></span>
+              </div>
+              <span class="traffic-light__subtitle">uncond.</span>
             </div>
-            <span class="traffic-light__subtitle">uncond.</span>
           </div>
-        </div>
-        <p>${countryData[0].country}</p>`;
-      grid.appendChild(countryEl);
+          <p>${countryData[0].country}</p>`;
+        grid.appendChild(countryEl);
 
-      // TODO merge functions esign.updateTrafficLights & esign.updateTrafficLightsCountryGroups???
-      esign.updateTrafficLightsCountryGroups(country);
+        // TODO merge functions esign.updateTrafficLights & esign.updateTrafficLightsCountryGroups???
+        esign.updateTrafficLightsCountryGroups(country);
+      }
     }
   })
 }
@@ -56215,7 +56217,7 @@ esign.createCountryDataView = function (year, color) {
     chart: {
       renderTo: 'chart3',
       style: {
-        fontFamily: 'Open Sans',
+        fontFamily: 'Avenir',
         fontSize: '1em',
       },
       backgroundColor: '#ffffff'
