@@ -786,5 +786,53 @@
     {
         "value": 1.0,
         "iso-a3": "ZWE"
-    }
+    },
+    {
+      "value": 1.0,
+      "iso-a3": "CVF"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "G20"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "EU"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "G7"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "NA"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "AU"
+  },
+  {
+      "value": 1.0,
+      "iso-a3": "AF"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "SIDS"
+  },
+  {
+      "value": 1.0,
+      "iso-a3": "LDC"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "UM"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "EG"
+  },
+  {
+      "value": 5.0,
+      "iso-a3": "WORLD"
+  }
 ]

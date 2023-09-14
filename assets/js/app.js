@@ -55225,10 +55225,12 @@ esign.drawWarmingMap = function(data, seriesName) {
               if(esign.cache.countries[i]['iso-a3'] === esign.cache.isoSelected) esign.cache.countrySelected = esign.cache.countries[i]['country'];
             }
             if (event.point) {
+              console.log('if event.point does exist => map click');
               if (event.point.options && !event.point.options.labelrank) {
                 esign.openWarmingChart(this.color, event.point.options.value, findUnconditionalValue(this['iso-a3']));
               }
             } else {
+              console.log('if event.point does not exist => list click');
               esign.openWarmingChart(this.color, findConditionalValue(this['iso-a3']), findUnconditionalValue(this['iso-a3']));
             }
           },
@@ -55447,20 +55449,16 @@ esign.drawWarmingMap = function(data, seriesName) {
 
     if(esign.cache.approachMode === 'hdi') {
       if(esign.cache.responsibilitySince === 1950) {
-        console.log('1950 - HDI');
         data = esign.cache.warmingHdi1950;
       } else if(esign.cache.responsibilitySince === 1990) {
-        console.log('1990 - HDI');
         data = esign.cache.warmingHdi1990;
       } else {
         console.log('error');
       }
     } else if (esign.cache.approachMode === 'gdp') {
       if(esign.cache.responsibilitySince === 1950) {
-        console.log('1950 - GDP');
         data = esign.cache.warmingGdp1950;
       } else if(esign.cache.responsibilitySince === 1990) {
-        console.log('1990 - GDP');
         data = esign.cache.warmingGdp1990;
       } else {
         console.log('error');
@@ -55536,13 +55534,15 @@ esign.drawWarmingMap = function(data, seriesName) {
         }
       }
     }
-    console.log(iso);
+
+    // TODO not needed? triggered function twice;
     if(esign.cache.countryGroupes.includes(iso)) {
       esign.cache.isoSelected = iso;
       for (var i = 0; i < esign.cache.countries.length; i++ ) {
         if(esign.cache.countries[i]['iso-a3'] === iso) esign.cache.countrySelected = esign.cache.countries[i]['country'];
       }
-      esign.openWarmingChart('', findConditionalValue(iso), findUnconditionalValue(iso));
+      console.log('countryListItem.click');
+      // esign.openWarmingChart('', findConditionalValue(iso), findUnconditionalValue(iso));
     }
   });
 
@@ -55821,7 +55821,6 @@ esign.updateTrafficLights = function() {
     if(esign.cache.responsibilitySince === 1950) {
       valueCond = esign.cache.warmingHdi1950.filter(getCountryIso);
       valueUncond = esign.cache.warmingHdi1950Uncond.filter(getCountryIso);
-
     } else if(esign.cache.responsibilitySince === 1990) {
       valueCond = esign.cache.warmingHdi1990.filter(getCountryIso);
       valueUncond = esign.cache.warmingHdi1990Uncond.filter(getCountryIso);
@@ -55927,7 +55926,6 @@ esign.initWarmingChartEvents = function (color) {
       esign.cache.isAbsolute = true;
       esign.cache.$relativeTrigger3.removeClass('active');
       esign.cache.$absoluteTrigger3.addClass('active');
-
       esign.createCountryDataView(2021, color);
     }
   });
@@ -55936,24 +55934,85 @@ esign.initWarmingChartEvents = function (color) {
 }
 
 esign.loadCountryGroups = function (selectedIso) {
+  const overview = document.querySelector('.js-countries-group');
+  overview.classList.add('d-none');
+
   esign.cache.groups.forEach(group => {
     if(group.name === selectedIso) {
-      esign.showCountriesFromCountryGroup(group.countries);
+      esign.showCountriesFromCountryGroup(group.countries, overview);
     }
   })
 }
 
-esign.showCountriesFromCountryGroup = function (countries) {
+esign.showCountriesFromCountryGroup = function (countries, overview) {
+  overview.classList.remove('d-none');
   const grid = document.querySelector('.js-countries-grid');
+  grid.innerHTML = ``;
 
   countries.forEach(country => {
     if(country.value === '1') {
+      const countryData = esign.cache.countries.filter((el) => el["iso-a3"] === country['iso-3']);
+
       const countryEl = document.createElement("div");
-      countryEl.classList.add('one-fifth');
-      countryEl.innerHTML = `${country['iso-3']}`;
+      countryEl.classList.add('countries-grid__item');
+      countryEl.innerHTML = `
+        <div class="modal-traffic-lights">
+          <div>
+            <div class="traffic-light traffic-light-cond" data-iso="${country['iso-3']}">
+              <span class="red"></span>
+              <span class="orange"></span>
+              <span class="green"></span>
+            </div>
+            <span class="traffic-light__subtitle">cond.</span>
+          </div>
+
+          <div>
+            <div class="traffic-light traffic-light-uncond" data-iso="${country['iso-3']}">
+              <span class="red"></span>
+              <span class="orange"></span>
+              <span class="green"></span>
+            </div>
+            <span class="traffic-light__subtitle">uncond.</span>
+          </div>
+        </div>
+        <p>${countryData[0].country}</p>`;
       grid.appendChild(countryEl);
+
+      // TODO merge functions esign.updateTrafficLights & esign.updateTrafficLightsCountryGroups???
+      esign.updateTrafficLightsCountryGroups(country);
     }
   })
+}
+
+esign.updateTrafficLightsCountryGroups = function (country) {
+  function getCountryIso(value) {
+    return value['iso-a3'] === country['iso-3'];
+  }
+
+  let valueCond, valueUncond;
+  if(esign.cache.approachMode === 'hdi') {
+    if(esign.cache.responsibilitySince === 1950) {
+      valueCond = esign.cache.warmingHdi1950.filter(getCountryIso);
+      valueUncond = esign.cache.warmingHdi1950Uncond.filter(getCountryIso);
+    } else if(esign.cache.responsibilitySince === 1990) {
+      valueCond = esign.cache.warmingHdi1990.filter(getCountryIso);
+      valueUncond = esign.cache.warmingHdi1990Uncond.filter(getCountryIso);
+    }
+  } else if (esign.cache.approachMode === 'gdp') {
+    if(esign.cache.responsibilitySince === 1950) {
+      valueCond = esign.cache.warmingGdp1950.filter(getCountryIso);
+      valueUncond = esign.cache.warmingGdp1950Uncond.filter(getCountryIso);
+    } else if(esign.cache.responsibilitySince === 1990) {
+      valueCond = esign.cache.warmingGdp1990.filter(getCountryIso);
+      valueUncond = esign.cache.warmingGdp1990Uncond.filter(getCountryIso);
+    }
+  }
+
+  const trafficLightsCondEl = document.querySelector(`.traffic-light-cond[data-iso="${country['iso-3']}"]`);
+  setTrafficLightColor(true, valueCond[0].value, trafficLightsCondEl);
+
+  const trafficLightsUncondEl = document.querySelector(`.traffic-light-uncond[data-iso="${country['iso-3']}"]`);
+  setTrafficLightColor(true, valueUncond[0].value, trafficLightsUncondEl);
 }
 
 esign.createCountryDataView = function (year, color) {
@@ -55967,11 +56026,11 @@ esign.createCountryDataView = function (year, color) {
   let unit = unitK,
     divider = 1;
 
-  console.log('iso selected from cache');
-  console.log(esign.cache.isoSelected);
+  // console.log('iso selected from cache');
+  // console.log(esign.cache.isoSelected);
 
   // TODO: Finish feature to show al countries of a group with their traffic lights
-  // esign.loadCountryGroups(esign.cache.isoSelected);
+  esign.loadCountryGroups(esign.cache.isoSelected);
 
   function getCountryIso(value) {
     return value['iso-a3'] === esign.cache.isoSelected;

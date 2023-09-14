@@ -799,6 +799,7982 @@
   },
   {
     "name": "G20",
-    "countries": {}
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "1",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "1",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "1",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "1",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "1",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "1",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "1",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "1",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "1",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "1",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "1",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "1",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "1",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "1",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "1",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "1",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "1",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "1",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "1",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "1",
+            "iso-3": "IND"
+        },
+        {
+            "value": "1",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "1",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "1",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "1",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "1",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "1",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "1",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "1",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "1",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "1",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "1",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "1",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "1",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "1",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "1",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "1",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "1",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "1",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "1",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "EU",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "1",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "1",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "1",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "1",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "1",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "1",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "1",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "1",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "1",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "1",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "1",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "1",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "1",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "1",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "1",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "1",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "1",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "1",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "1",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "1",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "1",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "1",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "1",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "1",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "G7",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "1",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "1",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "1",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "1",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "1",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "1",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "1",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "1",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "1",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "1",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "1",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "1",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "1",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "1",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "1",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "1",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "1",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "1",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "1",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "1",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "1",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "1",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "1",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "1",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "1",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "1",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "1",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "1",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "AF",
+    "countries":
+      [
+        {
+            "iso-3": "AFG",
+            "AF": ""
+        },
+        {
+            "iso-3": "AGO",
+            "AF": "1"
+        },
+        {
+            "iso-3": "ALB",
+            "AF": ""
+        },
+        {
+            "iso-3": "AND",
+            "AF": ""
+        },
+        {
+            "iso-3": "ARE",
+            "AF": ""
+        },
+        {
+            "iso-3": "ARG",
+            "AF": ""
+        },
+        {
+            "iso-3": "ARM",
+            "AF": ""
+        },
+        {
+            "iso-3": "ATG",
+            "AF": ""
+        },
+        {
+            "iso-3": "AUS",
+            "AF": ""
+        },
+        {
+            "iso-3": "AUT",
+            "AF": ""
+        },
+        {
+            "iso-3": "AZE",
+            "AF": ""
+        },
+        {
+            "iso-3": "BDI",
+            "AF": "1"
+        },
+        {
+            "iso-3": "BEL",
+            "AF": ""
+        },
+        {
+            "iso-3": "BEN",
+            "AF": "1"
+        },
+        {
+            "iso-3": "BFA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "BGD",
+            "AF": ""
+        },
+        {
+            "iso-3": "BGR",
+            "AF": ""
+        },
+        {
+            "iso-3": "BHR",
+            "AF": ""
+        },
+        {
+            "iso-3": "BHS",
+            "AF": ""
+        },
+        {
+            "iso-3": "BIH",
+            "AF": ""
+        },
+        {
+            "iso-3": "BLR",
+            "AF": ""
+        },
+        {
+            "iso-3": "BLZ",
+            "AF": ""
+        },
+        {
+            "iso-3": "BOL",
+            "AF": ""
+        },
+        {
+            "iso-3": "BRA",
+            "AF": ""
+        },
+        {
+            "iso-3": "BRB",
+            "AF": ""
+        },
+        {
+            "iso-3": "BRN",
+            "AF": ""
+        },
+        {
+            "iso-3": "BTN",
+            "AF": ""
+        },
+        {
+            "iso-3": "BWA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "CAF",
+            "AF": "1"
+        },
+        {
+            "iso-3": "CAN",
+            "AF": ""
+        },
+        {
+            "iso-3": "CHE",
+            "AF": ""
+        },
+        {
+            "iso-3": "CHL",
+            "AF": ""
+        },
+        {
+            "iso-3": "CHN",
+            "AF": ""
+        },
+        {
+            "iso-3": "CIV",
+            "AF": "1"
+        },
+        {
+            "iso-3": "CMR",
+            "AF": "1"
+        },
+        {
+            "iso-3": "COD",
+            "AF": "1"
+        },
+        {
+            "iso-3": "COG",
+            "AF": "1"
+        },
+        {
+            "iso-3": "COK",
+            "AF": ""
+        },
+        {
+            "iso-3": "COL",
+            "AF": ""
+        },
+        {
+            "iso-3": "COM",
+            "AF": "1"
+        },
+        {
+            "iso-3": "CPV",
+            "AF": "1"
+        },
+        {
+            "iso-3": "CRI",
+            "AF": ""
+        },
+        {
+            "iso-3": "CUB",
+            "AF": ""
+        },
+        {
+            "iso-3": "CYP",
+            "AF": ""
+        },
+        {
+            "iso-3": "CZE",
+            "AF": ""
+        },
+        {
+            "iso-3": "DEU",
+            "AF": ""
+        },
+        {
+            "iso-3": "DJI",
+            "AF": "1"
+        },
+        {
+            "iso-3": "DMA",
+            "AF": ""
+        },
+        {
+            "iso-3": "DNK",
+            "AF": ""
+        },
+        {
+            "iso-3": "DOM",
+            "AF": ""
+        },
+        {
+            "iso-3": "DZA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "ECU",
+            "AF": ""
+        },
+        {
+            "iso-3": "EGY",
+            "AF": "1"
+        },
+        {
+            "iso-3": "ERI",
+            "AF": "1"
+        },
+        {
+            "iso-3": "ESP",
+            "AF": ""
+        },
+        {
+            "iso-3": "EST",
+            "AF": ""
+        },
+        {
+            "iso-3": "ETH",
+            "AF": "1"
+        },
+        {
+            "iso-3": "EU27",
+            "AF": ""
+        },
+        {
+            "iso-3": "FIN",
+            "AF": ""
+        },
+        {
+            "iso-3": "FJI",
+            "AF": ""
+        },
+        {
+            "iso-3": "FRA",
+            "AF": ""
+        },
+        {
+            "iso-3": "FSM",
+            "AF": ""
+        },
+        {
+            "iso-3": "GAB",
+            "AF": "1"
+        },
+        {
+            "iso-3": "GBR",
+            "AF": ""
+        },
+        {
+            "iso-3": "GEO",
+            "AF": ""
+        },
+        {
+            "iso-3": "GHA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "GIN",
+            "AF": "1"
+        },
+        {
+            "iso-3": "GMB",
+            "AF": "1"
+        },
+        {
+            "iso-3": "GNB",
+            "AF": "1"
+        },
+        {
+            "iso-3": "GNQ",
+            "AF": "1"
+        },
+        {
+            "iso-3": "GRC",
+            "AF": ""
+        },
+        {
+            "iso-3": "GRD",
+            "AF": ""
+        },
+        {
+            "iso-3": "GTM",
+            "AF": ""
+        },
+        {
+            "iso-3": "GUY",
+            "AF": ""
+        },
+        {
+            "iso-3": "HND",
+            "AF": ""
+        },
+        {
+            "iso-3": "HRV",
+            "AF": ""
+        },
+        {
+            "iso-3": "HTI",
+            "AF": ""
+        },
+        {
+            "iso-3": "HUN",
+            "AF": ""
+        },
+        {
+            "iso-3": "IDN",
+            "AF": ""
+        },
+        {
+            "iso-3": "IND",
+            "AF": ""
+        },
+        {
+            "iso-3": "IRL",
+            "AF": ""
+        },
+        {
+            "iso-3": "IRN",
+            "AF": ""
+        },
+        {
+            "iso-3": "IRQ",
+            "AF": ""
+        },
+        {
+            "iso-3": "ISL",
+            "AF": ""
+        },
+        {
+            "iso-3": "ISR",
+            "AF": ""
+        },
+        {
+            "iso-3": "ITA",
+            "AF": ""
+        },
+        {
+            "iso-3": "JAM",
+            "AF": ""
+        },
+        {
+            "iso-3": "JOR",
+            "AF": ""
+        },
+        {
+            "iso-3": "JPN",
+            "AF": ""
+        },
+        {
+            "iso-3": "KAZ",
+            "AF": ""
+        },
+        {
+            "iso-3": "KEN",
+            "AF": "1"
+        },
+        {
+            "iso-3": "KGZ",
+            "AF": ""
+        },
+        {
+            "iso-3": "KHM",
+            "AF": ""
+        },
+        {
+            "iso-3": "KIR",
+            "AF": ""
+        },
+        {
+            "iso-3": "KNA",
+            "AF": ""
+        },
+        {
+            "iso-3": "KOR",
+            "AF": ""
+        },
+        {
+            "iso-3": "KWT",
+            "AF": ""
+        },
+        {
+            "iso-3": "LAO",
+            "AF": ""
+        },
+        {
+            "iso-3": "LBN",
+            "AF": ""
+        },
+        {
+            "iso-3": "LBR",
+            "AF": "1"
+        },
+        {
+            "iso-3": "LBY",
+            "AF": "1"
+        },
+        {
+            "iso-3": "LCA",
+            "AF": ""
+        },
+        {
+            "iso-3": "LIE",
+            "AF": ""
+        },
+        {
+            "iso-3": "LKA",
+            "AF": ""
+        },
+        {
+            "iso-3": "LSO",
+            "AF": "1"
+        },
+        {
+            "iso-3": "LTU",
+            "AF": ""
+        },
+        {
+            "iso-3": "LUX",
+            "AF": ""
+        },
+        {
+            "iso-3": "LVA",
+            "AF": ""
+        },
+        {
+            "iso-3": "MAR",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MCO",
+            "AF": ""
+        },
+        {
+            "iso-3": "MDA",
+            "AF": ""
+        },
+        {
+            "iso-3": "MDG",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MDV",
+            "AF": ""
+        },
+        {
+            "iso-3": "MEX",
+            "AF": ""
+        },
+        {
+            "iso-3": "MHL",
+            "AF": ""
+        },
+        {
+            "iso-3": "MKD",
+            "AF": ""
+        },
+        {
+            "iso-3": "MLI",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MLT",
+            "AF": ""
+        },
+        {
+            "iso-3": "MMR",
+            "AF": ""
+        },
+        {
+            "iso-3": "MNE",
+            "AF": ""
+        },
+        {
+            "iso-3": "MNG",
+            "AF": ""
+        },
+        {
+            "iso-3": "MOZ",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MRT",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MUS",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MWI",
+            "AF": "1"
+        },
+        {
+            "iso-3": "MYS",
+            "AF": ""
+        },
+        {
+            "iso-3": "NAM",
+            "AF": "1"
+        },
+        {
+            "iso-3": "NER",
+            "AF": "1"
+        },
+        {
+            "iso-3": "NGA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "NIC",
+            "AF": ""
+        },
+        {
+            "iso-3": "NIU",
+            "AF": ""
+        },
+        {
+            "iso-3": "NLD",
+            "AF": ""
+        },
+        {
+            "iso-3": "NOR",
+            "AF": ""
+        },
+        {
+            "iso-3": "NPL",
+            "AF": ""
+        },
+        {
+            "iso-3": "NRU",
+            "AF": ""
+        },
+        {
+            "iso-3": "NZL",
+            "AF": ""
+        },
+        {
+            "iso-3": "OMN",
+            "AF": ""
+        },
+        {
+            "iso-3": "PAK",
+            "AF": ""
+        },
+        {
+            "iso-3": "PAN",
+            "AF": ""
+        },
+        {
+            "iso-3": "PER",
+            "AF": ""
+        },
+        {
+            "iso-3": "PHL",
+            "AF": ""
+        },
+        {
+            "iso-3": "PLW",
+            "AF": ""
+        },
+        {
+            "iso-3": "PNG",
+            "AF": ""
+        },
+        {
+            "iso-3": "POL",
+            "AF": ""
+        },
+        {
+            "iso-3": "PRK",
+            "AF": ""
+        },
+        {
+            "iso-3": "PRT",
+            "AF": ""
+        },
+        {
+            "iso-3": "PRY",
+            "AF": ""
+        },
+        {
+            "iso-3": "PSE",
+            "AF": ""
+        },
+        {
+            "iso-3": "QAT",
+            "AF": ""
+        },
+        {
+            "iso-3": "ROU",
+            "AF": ""
+        },
+        {
+            "iso-3": "RUS",
+            "AF": ""
+        },
+        {
+            "iso-3": "RWA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SAU",
+            "AF": ""
+        },
+        {
+            "iso-3": "SDN",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SEN",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SGP",
+            "AF": ""
+        },
+        {
+            "iso-3": "SLB",
+            "AF": ""
+        },
+        {
+            "iso-3": "SLE",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SLV",
+            "AF": ""
+        },
+        {
+            "iso-3": "SMR",
+            "AF": ""
+        },
+        {
+            "iso-3": "SOM",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SRB",
+            "AF": ""
+        },
+        {
+            "iso-3": "SSD",
+            "AF": "1"
+        },
+        {
+            "iso-3": "STP",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SUR",
+            "AF": ""
+        },
+        {
+            "iso-3": "SVK",
+            "AF": ""
+        },
+        {
+            "iso-3": "SVN",
+            "AF": ""
+        },
+        {
+            "iso-3": "SWE",
+            "AF": ""
+        },
+        {
+            "iso-3": "SWZ",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SYC",
+            "AF": "1"
+        },
+        {
+            "iso-3": "SYR",
+            "AF": ""
+        },
+        {
+            "iso-3": "TCD",
+            "AF": "1"
+        },
+        {
+            "iso-3": "TGO",
+            "AF": "1"
+        },
+        {
+            "iso-3": "THA",
+            "AF": ""
+        },
+        {
+            "iso-3": "TJK",
+            "AF": ""
+        },
+        {
+            "iso-3": "TKM",
+            "AF": ""
+        },
+        {
+            "iso-3": "TLS",
+            "AF": ""
+        },
+        {
+            "iso-3": "TON",
+            "AF": ""
+        },
+        {
+            "iso-3": "TTO",
+            "AF": ""
+        },
+        {
+            "iso-3": "TUN",
+            "AF": "1"
+        },
+        {
+            "iso-3": "TUR",
+            "AF": ""
+        },
+        {
+            "iso-3": "TUV",
+            "AF": ""
+        },
+        {
+            "iso-3": "TZA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "UGA",
+            "AF": "1"
+        },
+        {
+            "iso-3": "UKR",
+            "AF": ""
+        },
+        {
+            "iso-3": "URY",
+            "AF": ""
+        },
+        {
+            "iso-3": "USA",
+            "AF": ""
+        },
+        {
+            "iso-3": "UZB",
+            "AF": ""
+        },
+        {
+            "iso-3": "VAT",
+            "AF": ""
+        },
+        {
+            "iso-3": "VCT",
+            "AF": ""
+        },
+        {
+            "iso-3": "VEN",
+            "AF": ""
+        },
+        {
+            "iso-3": "VNM",
+            "AF": ""
+        },
+        {
+            "iso-3": "VUT",
+            "AF": ""
+        },
+        {
+            "iso-3": "WSM",
+            "AF": ""
+        },
+        {
+            "iso-3": "YEM",
+            "AF": ""
+        },
+        {
+            "iso-3": "ZAF",
+            "AF": "1"
+        },
+        {
+            "iso-3": "ZMB",
+            "AF": "1"
+        },
+        {
+            "iso-3": "ZWE",
+            "AF": "1"
+        }
+    ]
+  },
+  {
+    "name": "SIDS",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "1",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "1",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "1",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "1",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "1",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "1",
+            "iso-3": "COM"
+        },
+        {
+            "value": "1",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "1",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "1",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "1",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "1",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "1",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "1",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "1",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "1",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "1",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "1",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "1",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "1",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "1",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "1",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "1",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "1",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "1",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "1",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "1",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "1",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "1",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "1",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "1",
+            "iso-3": "STP"
+        },
+        {
+            "value": "1",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "1",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "1",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "1",
+            "iso-3": "TON"
+        },
+        {
+            "value": "1",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "1",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "1",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "1",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "1",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "LDC",
+    "countries":
+      [
+        {
+            "value": "1",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "1",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "1",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "1",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "1",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "1",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "1",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "1",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "1",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "1",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "1",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "1",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "",
+            "iso-3": "EST"
+        },
+        {
+            "value": "1",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "1",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "1",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "1",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "1",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "1",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "1",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "1",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "1",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "1",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "1",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "1",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "1",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "1",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "1",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "1",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "1",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "1",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "1",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "1",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "1",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "1",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "1",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "1",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "1",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "1",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "1",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "1",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "1",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "1",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "1",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "1",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "1",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "1",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "UM",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "1",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "1",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "1",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "1",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "1",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "1",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "1",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "1",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "1",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "NA",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "1",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "1",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "AU",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "1",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
+  },
+  {
+    "name": "EG",
+    "countries":
+      [
+        {
+            "value": "",
+            "iso-3": "AFG"
+        },
+        {
+            "value": "",
+            "iso-3": "AGO"
+        },
+        {
+            "value": "",
+            "iso-3": "ALB"
+        },
+        {
+            "value": "1",
+            "iso-3": "AND"
+        },
+        {
+            "value": "",
+            "iso-3": "ARE"
+        },
+        {
+            "value": "",
+            "iso-3": "ARG"
+        },
+        {
+            "value": "",
+            "iso-3": "ARM"
+        },
+        {
+            "value": "",
+            "iso-3": "ATG"
+        },
+        {
+            "value": "",
+            "iso-3": "AUS"
+        },
+        {
+            "value": "1",
+            "iso-3": "AUT"
+        },
+        {
+            "value": "",
+            "iso-3": "AZE"
+        },
+        {
+            "value": "",
+            "iso-3": "BDI"
+        },
+        {
+            "value": "1",
+            "iso-3": "BEL"
+        },
+        {
+            "value": "",
+            "iso-3": "BEN"
+        },
+        {
+            "value": "",
+            "iso-3": "BFA"
+        },
+        {
+            "value": "",
+            "iso-3": "BGD"
+        },
+        {
+            "value": "1",
+            "iso-3": "BGR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHR"
+        },
+        {
+            "value": "",
+            "iso-3": "BHS"
+        },
+        {
+            "value": "",
+            "iso-3": "BIH"
+        },
+        {
+            "value": "",
+            "iso-3": "BLR"
+        },
+        {
+            "value": "",
+            "iso-3": "BLZ"
+        },
+        {
+            "value": "",
+            "iso-3": "BOL"
+        },
+        {
+            "value": "",
+            "iso-3": "BRA"
+        },
+        {
+            "value": "",
+            "iso-3": "BRB"
+        },
+        {
+            "value": "",
+            "iso-3": "BRN"
+        },
+        {
+            "value": "",
+            "iso-3": "BTN"
+        },
+        {
+            "value": "",
+            "iso-3": "BWA"
+        },
+        {
+            "value": "",
+            "iso-3": "CAF"
+        },
+        {
+            "value": "",
+            "iso-3": "CAN"
+        },
+        {
+            "value": "1",
+            "iso-3": "CHE"
+        },
+        {
+            "value": "",
+            "iso-3": "CHL"
+        },
+        {
+            "value": "",
+            "iso-3": "CHN"
+        },
+        {
+            "value": "",
+            "iso-3": "CIV"
+        },
+        {
+            "value": "",
+            "iso-3": "CMR"
+        },
+        {
+            "value": "",
+            "iso-3": "COD"
+        },
+        {
+            "value": "",
+            "iso-3": "COG"
+        },
+        {
+            "value": "",
+            "iso-3": "COK"
+        },
+        {
+            "value": "",
+            "iso-3": "COL"
+        },
+        {
+            "value": "",
+            "iso-3": "COM"
+        },
+        {
+            "value": "",
+            "iso-3": "CPV"
+        },
+        {
+            "value": "",
+            "iso-3": "CRI"
+        },
+        {
+            "value": "",
+            "iso-3": "CUB"
+        },
+        {
+            "value": "1",
+            "iso-3": "CYP"
+        },
+        {
+            "value": "1",
+            "iso-3": "CZE"
+        },
+        {
+            "value": "1",
+            "iso-3": "DEU"
+        },
+        {
+            "value": "",
+            "iso-3": "DJI"
+        },
+        {
+            "value": "",
+            "iso-3": "DMA"
+        },
+        {
+            "value": "1",
+            "iso-3": "DNK"
+        },
+        {
+            "value": "",
+            "iso-3": "DOM"
+        },
+        {
+            "value": "",
+            "iso-3": "DZA"
+        },
+        {
+            "value": "",
+            "iso-3": "ECU"
+        },
+        {
+            "value": "",
+            "iso-3": "EGY"
+        },
+        {
+            "value": "",
+            "iso-3": "ERI"
+        },
+        {
+            "value": "1",
+            "iso-3": "ESP"
+        },
+        {
+            "value": "1",
+            "iso-3": "EST"
+        },
+        {
+            "value": "",
+            "iso-3": "ETH"
+        },
+        {
+            "value": "",
+            "iso-3": "EU27"
+        },
+        {
+            "value": "1",
+            "iso-3": "FIN"
+        },
+        {
+            "value": "",
+            "iso-3": "FJI"
+        },
+        {
+            "value": "1",
+            "iso-3": "FRA"
+        },
+        {
+            "value": "",
+            "iso-3": "FSM"
+        },
+        {
+            "value": "",
+            "iso-3": "GAB"
+        },
+        {
+            "value": "1",
+            "iso-3": "GBR"
+        },
+        {
+            "value": "",
+            "iso-3": "GEO"
+        },
+        {
+            "value": "",
+            "iso-3": "GHA"
+        },
+        {
+            "value": "",
+            "iso-3": "GIN"
+        },
+        {
+            "value": "",
+            "iso-3": "GMB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNB"
+        },
+        {
+            "value": "",
+            "iso-3": "GNQ"
+        },
+        {
+            "value": "1",
+            "iso-3": "GRC"
+        },
+        {
+            "value": "",
+            "iso-3": "GRD"
+        },
+        {
+            "value": "",
+            "iso-3": "GTM"
+        },
+        {
+            "value": "",
+            "iso-3": "GUY"
+        },
+        {
+            "value": "",
+            "iso-3": "HND"
+        },
+        {
+            "value": "1",
+            "iso-3": "HRV"
+        },
+        {
+            "value": "",
+            "iso-3": "HTI"
+        },
+        {
+            "value": "1",
+            "iso-3": "HUN"
+        },
+        {
+            "value": "",
+            "iso-3": "IDN"
+        },
+        {
+            "value": "",
+            "iso-3": "IND"
+        },
+        {
+            "value": "1",
+            "iso-3": "IRL"
+        },
+        {
+            "value": "",
+            "iso-3": "IRN"
+        },
+        {
+            "value": "",
+            "iso-3": "IRQ"
+        },
+        {
+            "value": "1",
+            "iso-3": "ISL"
+        },
+        {
+            "value": "",
+            "iso-3": "ISR"
+        },
+        {
+            "value": "1",
+            "iso-3": "ITA"
+        },
+        {
+            "value": "",
+            "iso-3": "JAM"
+        },
+        {
+            "value": "",
+            "iso-3": "JOR"
+        },
+        {
+            "value": "",
+            "iso-3": "JPN"
+        },
+        {
+            "value": "",
+            "iso-3": "KAZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KEN"
+        },
+        {
+            "value": "",
+            "iso-3": "KGZ"
+        },
+        {
+            "value": "",
+            "iso-3": "KHM"
+        },
+        {
+            "value": "",
+            "iso-3": "KIR"
+        },
+        {
+            "value": "",
+            "iso-3": "KNA"
+        },
+        {
+            "value": "",
+            "iso-3": "KOR"
+        },
+        {
+            "value": "",
+            "iso-3": "KWT"
+        },
+        {
+            "value": "",
+            "iso-3": "LAO"
+        },
+        {
+            "value": "",
+            "iso-3": "LBN"
+        },
+        {
+            "value": "",
+            "iso-3": "LBR"
+        },
+        {
+            "value": "",
+            "iso-3": "LBY"
+        },
+        {
+            "value": "",
+            "iso-3": "LCA"
+        },
+        {
+            "value": "1",
+            "iso-3": "LIE"
+        },
+        {
+            "value": "",
+            "iso-3": "LKA"
+        },
+        {
+            "value": "",
+            "iso-3": "LSO"
+        },
+        {
+            "value": "1",
+            "iso-3": "LTU"
+        },
+        {
+            "value": "1",
+            "iso-3": "LUX"
+        },
+        {
+            "value": "1",
+            "iso-3": "LVA"
+        },
+        {
+            "value": "",
+            "iso-3": "MAR"
+        },
+        {
+            "value": "1",
+            "iso-3": "MCO"
+        },
+        {
+            "value": "",
+            "iso-3": "MDA"
+        },
+        {
+            "value": "",
+            "iso-3": "MDG"
+        },
+        {
+            "value": "",
+            "iso-3": "MDV"
+        },
+        {
+            "value": "",
+            "iso-3": "MEX"
+        },
+        {
+            "value": "",
+            "iso-3": "MHL"
+        },
+        {
+            "value": "",
+            "iso-3": "MKD"
+        },
+        {
+            "value": "",
+            "iso-3": "MLI"
+        },
+        {
+            "value": "1",
+            "iso-3": "MLT"
+        },
+        {
+            "value": "",
+            "iso-3": "MMR"
+        },
+        {
+            "value": "",
+            "iso-3": "MNE"
+        },
+        {
+            "value": "",
+            "iso-3": "MNG"
+        },
+        {
+            "value": "",
+            "iso-3": "MOZ"
+        },
+        {
+            "value": "",
+            "iso-3": "MRT"
+        },
+        {
+            "value": "",
+            "iso-3": "MUS"
+        },
+        {
+            "value": "",
+            "iso-3": "MWI"
+        },
+        {
+            "value": "",
+            "iso-3": "MYS"
+        },
+        {
+            "value": "",
+            "iso-3": "NAM"
+        },
+        {
+            "value": "",
+            "iso-3": "NER"
+        },
+        {
+            "value": "",
+            "iso-3": "NGA"
+        },
+        {
+            "value": "",
+            "iso-3": "NIC"
+        },
+        {
+            "value": "",
+            "iso-3": "NIU"
+        },
+        {
+            "value": "1",
+            "iso-3": "NLD"
+        },
+        {
+            "value": "1",
+            "iso-3": "NOR"
+        },
+        {
+            "value": "",
+            "iso-3": "NPL"
+        },
+        {
+            "value": "",
+            "iso-3": "NRU"
+        },
+        {
+            "value": "",
+            "iso-3": "NZL"
+        },
+        {
+            "value": "",
+            "iso-3": "OMN"
+        },
+        {
+            "value": "",
+            "iso-3": "PAK"
+        },
+        {
+            "value": "",
+            "iso-3": "PAN"
+        },
+        {
+            "value": "",
+            "iso-3": "PER"
+        },
+        {
+            "value": "",
+            "iso-3": "PHL"
+        },
+        {
+            "value": "",
+            "iso-3": "PLW"
+        },
+        {
+            "value": "",
+            "iso-3": "PNG"
+        },
+        {
+            "value": "1",
+            "iso-3": "POL"
+        },
+        {
+            "value": "",
+            "iso-3": "PRK"
+        },
+        {
+            "value": "1",
+            "iso-3": "PRT"
+        },
+        {
+            "value": "",
+            "iso-3": "PRY"
+        },
+        {
+            "value": "",
+            "iso-3": "PSE"
+        },
+        {
+            "value": "",
+            "iso-3": "QAT"
+        },
+        {
+            "value": "1",
+            "iso-3": "ROU"
+        },
+        {
+            "value": "",
+            "iso-3": "RUS"
+        },
+        {
+            "value": "",
+            "iso-3": "RWA"
+        },
+        {
+            "value": "",
+            "iso-3": "SAU"
+        },
+        {
+            "value": "",
+            "iso-3": "SDN"
+        },
+        {
+            "value": "",
+            "iso-3": "SEN"
+        },
+        {
+            "value": "",
+            "iso-3": "SGP"
+        },
+        {
+            "value": "",
+            "iso-3": "SLB"
+        },
+        {
+            "value": "",
+            "iso-3": "SLE"
+        },
+        {
+            "value": "",
+            "iso-3": "SLV"
+        },
+        {
+            "value": "1",
+            "iso-3": "SMR"
+        },
+        {
+            "value": "",
+            "iso-3": "SOM"
+        },
+        {
+            "value": "",
+            "iso-3": "SRB"
+        },
+        {
+            "value": "",
+            "iso-3": "SSD"
+        },
+        {
+            "value": "",
+            "iso-3": "STP"
+        },
+        {
+            "value": "",
+            "iso-3": "SUR"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVK"
+        },
+        {
+            "value": "1",
+            "iso-3": "SVN"
+        },
+        {
+            "value": "1",
+            "iso-3": "SWE"
+        },
+        {
+            "value": "",
+            "iso-3": "SWZ"
+        },
+        {
+            "value": "",
+            "iso-3": "SYC"
+        },
+        {
+            "value": "",
+            "iso-3": "SYR"
+        },
+        {
+            "value": "",
+            "iso-3": "TCD"
+        },
+        {
+            "value": "",
+            "iso-3": "TGO"
+        },
+        {
+            "value": "",
+            "iso-3": "THA"
+        },
+        {
+            "value": "",
+            "iso-3": "TJK"
+        },
+        {
+            "value": "",
+            "iso-3": "TKM"
+        },
+        {
+            "value": "",
+            "iso-3": "TLS"
+        },
+        {
+            "value": "",
+            "iso-3": "TON"
+        },
+        {
+            "value": "",
+            "iso-3": "TTO"
+        },
+        {
+            "value": "",
+            "iso-3": "TUN"
+        },
+        {
+            "value": "",
+            "iso-3": "TUR"
+        },
+        {
+            "value": "",
+            "iso-3": "TUV"
+        },
+        {
+            "value": "",
+            "iso-3": "TZA"
+        },
+        {
+            "value": "",
+            "iso-3": "UGA"
+        },
+        {
+            "value": "",
+            "iso-3": "UKR"
+        },
+        {
+            "value": "",
+            "iso-3": "URY"
+        },
+        {
+            "value": "",
+            "iso-3": "USA"
+        },
+        {
+            "value": "",
+            "iso-3": "UZB"
+        },
+        {
+            "value": "",
+            "iso-3": "VAT"
+        },
+        {
+            "value": "",
+            "iso-3": "VCT"
+        },
+        {
+            "value": "",
+            "iso-3": "VEN"
+        },
+        {
+            "value": "",
+            "iso-3": "VNM"
+        },
+        {
+            "value": "",
+            "iso-3": "VUT"
+        },
+        {
+            "value": "",
+            "iso-3": "WSM"
+        },
+        {
+            "value": "",
+            "iso-3": "YEM"
+        },
+        {
+            "value": "",
+            "iso-3": "ZAF"
+        },
+        {
+            "value": "",
+            "iso-3": "ZMB"
+        },
+        {
+            "value": "",
+            "iso-3": "ZWE"
+        }
+    ]
   }
 ]
