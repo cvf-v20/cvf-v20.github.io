@@ -1,0 +1,1962 @@
+[
+    {
+        "Mean years of schooling": 4.9,
+        "GNI per capita rank minus HDI rank": 3.0,
+        "rank": 176.0,
+        "iso-a3": "ERI",
+        "Expected years of schooling": 8.1,
+        "Gross national income (GNI) per capita": "1,729",
+        "Life expectancy at birth": 66.5,
+        "hdi": 0.492
+    },
+    {
+        "Mean years of schooling": "..",
+        "GNI per capita rank minus HDI rank": "..",
+        "rank": "..",
+        "iso-a3": "PRK",
+        "Expected years of schooling": 10.8,
+        "Gross national income (GNI) per capita": "..",
+        "Life expectancy at birth": 73.3,
+        "hdi": ".."
+    },
+    {
+        "Mean years of schooling": 9.6,
+        "GNI per capita rank minus HDI rank": 3.0,
+        "rank": 39.0,
+        "iso-a3": "PRT",
+        "Expected years of schooling": 16.9,
+        "Gross national income (GNI) per capita": "33,155",
+        "Life expectancy at birth": 81.0,
+        "hdi": 0.866
+    },
+    {
+        "Mean years of schooling": 7.1,
+        "GNI per capita rank minus HDI rank": 23.0,
+        "rank": 142.0,
+        "iso-a3": "VUT",
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "3,085",
+        "Life expectancy at birth": 70.4,
+        "hdi": 0.607
+    },
+    {
+        "Mean years of schooling": 12.2,
+        "GNI per capita rank minus HDI rank": 16.0,
+        "rank": 52.0,
+        "iso-a3": "MNE",
+        "Expected years of schooling": 15.1,
+        "Gross national income (GNI) per capita": "20,839",
+        "Life expectancy at birth": 76.3,
+        "hdi": 0.832
+    },
+    {
+        "Mean years of schooling": 12.6,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 58.0,
+        "iso-a3": "BHS",
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "30,486",
+        "Life expectancy at birth": 71.6,
+        "hdi": 0.812
+    },
+    {
+        "Mean years of schooling": 5.0,
+        "GNI per capita rank minus HDI rank": 12.0,
+        "rank": 163.0,
+        "iso-a3": "TGO",
+        "Expected years of schooling": 13.0,
+        "Gross national income (GNI) per capita": "2,167",
+        "Life expectancy at birth": 61.6,
+        "hdi": 0.539
+    },
+    {
+        "Mean years of schooling": 12.2,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 41.0,
+        "iso-a3": "HRV",
+        "Expected years of schooling": 15.1,
+        "Gross national income (GNI) per capita": "30,132",
+        "Life expectancy at birth": 77.6,
+        "hdi": 0.858
+    },
+    {
+        "Mean years of schooling": 3.6,
+        "GNI per capita rank minus HDI rank": 0.0,
+        "rank": 177.0,
+        "iso-a3": "GNB",
+        "Expected years of schooling": 10.6,
+        "Gross national income (GNI) per capita": "1,908",
+        "Life expectancy at birth": 59.7,
+        "hdi": 0.483
+    },
+    {
+        "Mean years of schooling": 8.0,
+        "GNI per capita rank minus HDI rank": 14.0,
+        "rank": 137.0,
+        "iso-a3": "KIR",
+        "Expected years of schooling": 11.8,
+        "Gross national income (GNI) per capita": "4,063",
+        "Life expectancy at birth": 67.4,
+        "hdi": 0.624
+    },
+    {
+        "Mean years of schooling": 9.9,
+        "GNI per capita rank minus HDI rank": 26.0,
+        "rank": 71.0,
+        "iso-a3": "BRB",
+        "Expected years of schooling": 15.7,
+        "Gross national income (GNI) per capita": "12,306",
+        "Life expectancy at birth": 77.6,
+        "hdi": 0.79
+    },
+    {
+        "Mean years of schooling": 4.3,
+        "GNI per capita rank minus HDI rank": "-7",
+        "rank": 166.0,
+        "iso-a3": "BEN",
+        "Expected years of schooling": 10.8,
+        "Gross national income (GNI) per capita": "3,409",
+        "Life expectancy at birth": 59.8,
+        "hdi": 0.525
+    },
+    {
+        "Mean years of schooling": 11.1,
+        "GNI per capita rank minus HDI rank": 20.0,
+        "rank": 118.0,
+        "iso-a3": "VEN",
+        "Expected years of schooling": 12.8,
+        "Gross national income (GNI) per capita": "4,811",
+        "Life expectancy at birth": 70.6,
+        "hdi": 0.691
+    },
+    {
+        "Mean years of schooling": 3.2,
+        "GNI per capita rank minus HDI rank": 1.0,
+        "rank": 183.0,
+        "iso-a3": "YEM",
+        "Expected years of schooling": 9.1,
+        "Gross national income (GNI) per capita": "1,314",
+        "Life expectancy at birth": 63.8,
+        "hdi": 0.455
+    },
+    {
+        "Mean years of schooling": 12.4,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 29.0,
+        "iso-a3": "CYP",
+        "Expected years of schooling": 15.6,
+        "Gross national income (GNI) per capita": "38,188",
+        "Life expectancy at birth": 81.2,
+        "hdi": 0.896
+    },
+    {
+        "Mean years of schooling": 8.8,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 57.0,
+        "iso-a3": "CRI",
+        "Expected years of schooling": 16.5,
+        "Gross national income (GNI) per capita": "19,974",
+        "Life expectancy at birth": 77.0,
+        "hdi": 0.809
+    },
+    {
+        "Mean years of schooling": 3.2,
+        "GNI per capita rank minus HDI rank": "-5",
+        "rank": 175.0,
+        "iso-a3": "ETH",
+        "Expected years of schooling": 9.7,
+        "Gross national income (GNI) per capita": "2,361",
+        "Life expectancy at birth": 65.0,
+        "hdi": 0.498
+    },
+    {
+        "Mean years of schooling": 12.6,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 9.0,
+        "iso-a3": "SWE",
+        "Expected years of schooling": 19.4,
+        "Gross national income (GNI) per capita": "54,489",
+        "Life expectancy at birth": 83.0,
+        "hdi": 0.947
+    },
+    {
+        "Mean years of schooling": 4.4,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 165.0,
+        "iso-a3": "RWA",
+        "Expected years of schooling": 11.2,
+        "Gross national income (GNI) per capita": "2,210",
+        "Life expectancy at birth": 66.1,
+        "hdi": 0.534
+    },
+    {
+        "Mean years of schooling": 5.4,
+        "GNI per capita rank minus HDI rank": 7.0,
+        "rank": 140.0,
+        "iso-a3": "TLS",
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "4,461",
+        "Life expectancy at birth": 67.7,
+        "hdi": 0.607
+    },
+    {
+        "Mean years of schooling": 9.9,
+        "GNI per capita rank minus HDI rank": 13.0,
+        "rank": 85.0,
+        "iso-a3": "PER",
+        "Expected years of schooling": 15.4,
+        "Gross national income (GNI) per capita": "12,246",
+        "Life expectancy at birth": 72.4,
+        "hdi": 0.762
+    },
+    {
+        "Mean years of schooling": 13.0,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 1.0,
+        "iso-a3": "NOR",
+        "Expected years of schooling": 18.2,
+        "Gross national income (GNI) per capita": "64,660",
+        "Life expectancy at birth": 83.2,
+        "hdi": 0.961
+    },
+    {
+        "Mean years of schooling": 9.8,
+        "GNI per capita rank minus HDI rank": 0.0,
+        "rank": 119.0,
+        "iso-a3": "BOL",
+        "Expected years of schooling": 14.9,
+        "Gross national income (GNI) per capita": "8,111",
+        "Life expectancy at birth": 63.6,
+        "hdi": 0.692
+    },
+    {
+        "Mean years of schooling": 10.0,
+        "GNI per capita rank minus HDI rank": "-39",
+        "rank": 42.0,
+        "iso-a3": "QAT",
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "87,134",
+        "Life expectancy at birth": 79.3,
+        "hdi": 0.855
+    },
+    {
+        "Mean years of schooling": 5.6,
+        "GNI per capita rank minus HDI rank": "-21",
+        "rank": 141.0,
+        "iso-a3": "SWZ",
+        "Expected years of schooling": 13.7,
+        "Gross national income (GNI) per capita": "7,679",
+        "Life expectancy at birth": 57.1,
+        "hdi": 0.597
+    },
+    {
+        "Mean years of schooling": 12.5,
+        "GNI per capita rank minus HDI rank": 5.0,
+        "rank": 80.0,
+        "iso-a3": "PLW",
+        "Expected years of schooling": 15.8,
+        "Gross national income (GNI) per capita": "13,819",
+        "Life expectancy at birth": 66.0,
+        "hdi": 0.767
+    },
+    {
+        "Mean years of schooling": 5.7,
+        "GNI per capita rank minus HDI rank": 13.0,
+        "rank": 155.0,
+        "iso-a3": "SLB",
+        "Expected years of schooling": 10.3,
+        "Gross national income (GNI) per capita": "2,482",
+        "Life expectancy at birth": 70.3,
+        "hdi": 0.564
+    },
+    {
+        "Mean years of schooling": 13.0,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 5.0,
+        "iso-a3": "DNK",
+        "Expected years of schooling": 18.7,
+        "Gross national income (GNI) per capita": "60,365",
+        "Life expectancy at birth": 81.4,
+        "hdi": 0.948
+    },
+    {
+        "Mean years of schooling": 2.3,
+        "GNI per capita rank minus HDI rank": "-11",
+        "rank": 186.0,
+        "iso-a3": "MLI",
+        "Expected years of schooling": 7.4,
+        "Gross national income (GNI) per capita": "2,133",
+        "Life expectancy at birth": 58.9,
+        "hdi": 0.428
+    },
+    {
+        "Mean years of schooling": 10.5,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 100.0,
+        "iso-a3": "AZE",
+        "Expected years of schooling": 13.5,
+        "Gross national income (GNI) per capita": "14,257",
+        "Life expectancy at birth": 69.4,
+        "hdi": 0.745
+    },
+    {
+        "Mean years of schooling": 4.7,
+        "GNI per capita rank minus HDI rank": "-4",
+        "rank": 157.0,
+        "iso-a3": "PNG",
+        "Expected years of schooling": 10.4,
+        "Gross national income (GNI) per capita": "4,009",
+        "Life expectancy at birth": 65.4,
+        "hdi": 0.558
+    },
+    {
+        "Mean years of schooling": 13.7,
+        "GNI per capita rank minus HDI rank": "-14",
+        "rank": 21.0,
+        "iso-a3": "USA",
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "64,765",
+        "Life expectancy at birth": 77.2,
+        "hdi": 0.921
+    },
+    {
+        "Mean years of schooling": 8.7,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 145.0,
+        "iso-a3": "ZWE",
+        "Expected years of schooling": 12.1,
+        "Gross national income (GNI) per capita": "3,810",
+        "Life expectancy at birth": 59.3,
+        "hdi": 0.593
+    },
+    {
+        "Mean years of schooling": 9.4,
+        "GNI per capita rank minus HDI rank": "-25",
+        "rank": 113.0,
+        "iso-a3": "GAB",
+        "Expected years of schooling": 13.0,
+        "Gross national income (GNI) per capita": "13,367",
+        "Life expectancy at birth": 65.8,
+        "hdi": 0.706
+    },
+    {
+        "Mean years of schooling": 7.9,
+        "GNI per capita rank minus HDI rank": "-12",
+        "rank": 122.0,
+        "iso-a3": "IRQ",
+        "Expected years of schooling": 12.1,
+        "Gross national income (GNI) per capita": "9,977",
+        "Life expectancy at birth": 70.4,
+        "hdi": 0.686
+    },
+    {
+        "Mean years of schooling": 8.8,
+        "GNI per capita rank minus HDI rank": 11.0,
+        "rank": 99.0,
+        "iso-a3": "ECU",
+        "Expected years of schooling": 14.6,
+        "Gross national income (GNI) per capita": "10,312",
+        "Life expectancy at birth": 73.7,
+        "hdi": 0.74
+    },
+    {
+        "Mean years of schooling": 11.9,
+        "GNI per capita rank minus HDI rank": 18.0,
+        "rank": 107.0,
+        "iso-a3": "UZB",
+        "Expected years of schooling": 12.5,
+        "Gross national income (GNI) per capita": "7,917",
+        "Life expectancy at birth": 70.9,
+        "hdi": 0.727
+    },
+    {
+        "Mean years of schooling": 12.7,
+        "GNI per capita rank minus HDI rank": 18.0,
+        "rank": 5.0,
+        "iso-a3": "AUS",
+        "Expected years of schooling": 21.1,
+        "Gross national income (GNI) per capita": "49,238",
+        "Life expectancy at birth": 84.5,
+        "hdi": 0.951
+    },
+    {
+        "Mean years of schooling": 4.6,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 173.0,
+        "iso-a3": "GMB",
+        "Expected years of schooling": 9.4,
+        "Gross national income (GNI) per capita": "2,172",
+        "Life expectancy at birth": 62.1,
+        "hdi": 0.5
+    },
+    {
+        "Mean years of schooling": 4.3,
+        "GNI per capita rank minus HDI rank": 1.0,
+        "rank": 188.0,
+        "iso-a3": "CAF",
+        "Expected years of schooling": 8.0,
+        "Gross national income (GNI) per capita": 966.0,
+        "Life expectancy at birth": 53.9,
+        "hdi": 0.404
+    },
+    {
+        "Mean years of schooling": 11.6,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 28.0,
+        "iso-a3": "FRA",
+        "Expected years of schooling": 15.8,
+        "Gross national income (GNI) per capita": "45,937",
+        "Life expectancy at birth": 82.5,
+        "hdi": 0.903
+    },
+    {
+        "Mean years of schooling": 12.5,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 20.0,
+        "iso-a3": "KOR",
+        "Expected years of schooling": 16.5,
+        "Gross national income (GNI) per capita": "44,501",
+        "Life expectancy at birth": 83.7,
+        "hdi": 0.925
+    },
+    {
+        "Mean years of schooling": 11.6,
+        "GNI per capita rank minus HDI rank": 1.0,
+        "rank": 56.0,
+        "iso-a3": "TTO",
+        "Expected years of schooling": 14.5,
+        "Gross national income (GNI) per capita": "23,392",
+        "Life expectancy at birth": 73.0,
+        "hdi": 0.81
+    },
+    {
+        "Mean years of schooling": 11.3,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 87.0,
+        "iso-a3": "ARM",
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "13,158",
+        "Life expectancy at birth": 72.0,
+        "hdi": 0.759
+    },
+    {
+        "Mean years of schooling": 7.3,
+        "GNI per capita rank minus HDI rank": "-32",
+        "rank": 54.0,
+        "iso-a3": "KWT",
+        "Expected years of schooling": 15.3,
+        "Gross national income (GNI) per capita": "52,920",
+        "Life expectancy at birth": 78.7,
+        "hdi": 0.831
+    },
+    {
+        "Mean years of schooling": 10.8,
+        "GNI per capita rank minus HDI rank": 21.0,
+        "rank": 75.0,
+        "iso-a3": "LKA",
+        "Expected years of schooling": 14.1,
+        "Gross national income (GNI) per capita": "12,578",
+        "Life expectancy at birth": 76.4,
+        "hdi": 0.782
+    },
+    {
+        "Mean years of schooling": 5.2,
+        "GNI per capita rank minus HDI rank": "-22",
+        "rank": 159.0,
+        "iso-a3": "CIV",
+        "Expected years of schooling": 10.7,
+        "Gross national income (GNI) per capita": "5,217",
+        "Life expectancy at birth": 58.6,
+        "hdi": 0.55
+    },
+    {
+        "Mean years of schooling": 5.1,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 156.0,
+        "iso-a3": "COM",
+        "Expected years of schooling": 11.9,
+        "Gross national income (GNI) per capita": "3,142",
+        "Life expectancy at birth": 63.4,
+        "hdi": 0.558
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": 34.0,
+        "rank": 90.0,
+        "iso-a3": "TON",
+        "Expected years of schooling": 16.0,
+        "Gross national income (GNI) per capita": "6,822",
+        "Life expectancy at birth": 71.0,
+        "hdi": 0.745
+    },
+    {
+        "Mean years of schooling": 12.8,
+        "GNI per capita rank minus HDI rank": 17.0,
+        "rank": 64.0,
+        "iso-a3": "GEO",
+        "Expected years of schooling": 15.6,
+        "Gross national income (GNI) per capita": "14,664",
+        "Life expectancy at birth": 71.7,
+        "hdi": 0.802
+    },
+    {
+        "Mean years of schooling": 7.1,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 138.0,
+        "iso-a3": "HND",
+        "Expected years of schooling": 10.1,
+        "Gross national income (GNI) per capita": "5,298",
+        "Life expectancy at birth": 70.1,
+        "hdi": 0.621
+    },
+    {
+        "Mean years of schooling": 7.6,
+        "GNI per capita rank minus HDI rank": "-27",
+        "rank": 117.0,
+        "iso-a3": "LBY",
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "15,336",
+        "Life expectancy at birth": 71.9,
+        "hdi": 0.718
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": "-17",
+        "rank": 102.0,
+        "iso-a3": "ZAF",
+        "Expected years of schooling": 13.6,
+        "Gross national income (GNI) per capita": "12,948",
+        "Life expectancy at birth": 62.3,
+        "hdi": 0.713
+    },
+    {
+        "Mean years of schooling": 11.3,
+        "GNI per capita rank minus HDI rank": 23.0,
+        "rank": 126.0,
+        "iso-a3": "TJK",
+        "Expected years of schooling": 11.7,
+        "Gross national income (GNI) per capita": "4,548",
+        "Life expectancy at birth": 71.6,
+        "hdi": 0.685
+    },
+    {
+        "Mean years of schooling": 8.6,
+        "GNI per capita rank minus HDI rank": "-11",
+        "rank": 116.0,
+        "iso-a3": "IDN",
+        "Expected years of schooling": 13.7,
+        "Gross national income (GNI) per capita": "11,466",
+        "Life expectancy at birth": 67.6,
+        "hdi": 0.705
+    },
+    {
+        "Mean years of schooling": 8.4,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 113.0,
+        "iso-a3": "VNM",
+        "Expected years of schooling": 13.0,
+        "Gross national income (GNI) per capita": "7,867",
+        "Life expectancy at birth": 73.6,
+        "hdi": 0.703
+    },
+    {
+        "Mean years of schooling": 3.2,
+        "GNI per capita rank minus HDI rank": 2.0,
+        "rank": 184.0,
+        "iso-a3": "MOZ",
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "1,198",
+        "Life expectancy at birth": 59.3,
+        "hdi": 0.446
+    },
+    {
+        "Mean years of schooling": 5.7,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 191.0,
+        "iso-a3": "SSD",
+        "Expected years of schooling": 5.5,
+        "Gross national income (GNI) per capita": 768.0,
+        "Life expectancy at birth": 55.0,
+        "hdi": 0.385
+    },
+    {
+        "Mean years of schooling": 8.9,
+        "GNI per capita rank minus HDI rank": "-7",
+        "rank": 88.0,
+        "iso-a3": "COL",
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "14,384",
+        "Life expectancy at birth": 72.8,
+        "hdi": 0.752
+    },
+    {
+        "Mean years of schooling": 8.7,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 64.0,
+        "iso-a3": "THA",
+        "Expected years of schooling": 15.9,
+        "Gross national income (GNI) per capita": "17,030",
+        "Life expectancy at birth": 78.7,
+        "hdi": 0.8
+    },
+    {
+        "Mean years of schooling": 13.9,
+        "GNI per capita rank minus HDI rank": 5.0,
+        "rank": 3.0,
+        "iso-a3": "CHE",
+        "Expected years of schooling": 16.5,
+        "Gross national income (GNI) per capita": "66,933",
+        "Life expectancy at birth": 84.0,
+        "hdi": 0.962
+    },
+    {
+        "Mean years of schooling": 7.8,
+        "GNI per capita rank minus HDI rank": 22.0,
+        "rank": 136.0,
+        "iso-a3": "FSM",
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "3,696",
+        "Life expectancy at birth": 70.7,
+        "hdi": 0.628
+    },
+    {
+        "Mean years of schooling": 13.8,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 15.0,
+        "iso-a3": "CAN",
+        "Expected years of schooling": 16.4,
+        "Gross national income (GNI) per capita": "46,808",
+        "Life expectancy at birth": 82.7,
+        "hdi": 0.936
+    },
+    {
+        "Mean years of schooling": 9.2,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 110.0,
+        "iso-a3": "JAM",
+        "Expected years of schooling": 13.4,
+        "Gross national income (GNI) per capita": "8,834",
+        "Life expectancy at birth": 70.5,
+        "hdi": 0.709
+    },
+    {
+        "Mean years of schooling": 5.9,
+        "GNI per capita rank minus HDI rank": "-47",
+        "rank": 147.0,
+        "iso-a3": "GNQ",
+        "Expected years of schooling": 9.7,
+        "Gross national income (GNI) per capita": "12,074",
+        "Life expectancy at birth": 60.6,
+        "hdi": 0.596
+    },
+    {
+        "Mean years of schooling": 9.6,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 97.0,
+        "iso-a3": "EGY",
+        "Expected years of schooling": 13.8,
+        "Gross national income (GNI) per capita": "11,732",
+        "Life expectancy at birth": 70.2,
+        "hdi": 0.731
+    },
+    {
+        "Mean years of schooling": 8.7,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 103.0,
+        "iso-a3": "LBN",
+        "Expected years of schooling": 11.3,
+        "Gross national income (GNI) per capita": "9,526",
+        "Life expectancy at birth": 75.0,
+        "hdi": 0.706
+    },
+    {
+        "Mean years of schooling": 9.4,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 90.0,
+        "iso-a3": "MNG",
+        "Expected years of schooling": 15.0,
+        "Gross national income (GNI) per capita": "10,588",
+        "Life expectancy at birth": 71.0,
+        "hdi": 0.739
+    },
+    {
+        "Mean years of schooling": 4.6,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 181.0,
+        "iso-a3": "SLE",
+        "Expected years of schooling": 9.6,
+        "Gross national income (GNI) per capita": "1,622",
+        "Life expectancy at birth": 60.1,
+        "hdi": 0.477
+    },
+    {
+        "Mean years of schooling": 12.3,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 23.0,
+        "iso-a3": "AUT",
+        "Expected years of schooling": 16.0,
+        "Gross national income (GNI) per capita": "53,619",
+        "Life expectancy at birth": 81.6,
+        "hdi": 0.916
+    },
+    {
+        "Mean years of schooling": 6.2,
+        "GNI per capita rank minus HDI rank": 11.0,
+        "rank": 153.0,
+        "iso-a3": "COG",
+        "Expected years of schooling": 12.3,
+        "Gross national income (GNI) per capita": "2,889",
+        "Life expectancy at birth": 63.5,
+        "hdi": 0.571
+    },
+    {
+        "Mean years of schooling": 12.9,
+        "GNI per capita rank minus HDI rank": 1.0,
+        "rank": 40.0,
+        "iso-a3": "SVK",
+        "Expected years of schooling": 14.5,
+        "Gross national income (GNI) per capita": "30,690",
+        "Life expectancy at birth": 74.9,
+        "hdi": 0.848
+    },
+    {
+        "Mean years of schooling": 7.2,
+        "GNI per capita rank minus HDI rank": 7.0,
+        "rank": 154.0,
+        "iso-a3": "ZMB",
+        "Expected years of schooling": 10.9,
+        "Gross national income (GNI) per capita": "3,218",
+        "Life expectancy at birth": 61.2,
+        "hdi": 0.565
+    },
+    {
+        "Mean years of schooling": 4.5,
+        "GNI per capita rank minus HDI rank": "-19",
+        "rank": 161.0,
+        "iso-a3": "PAK",
+        "Expected years of schooling": 8.7,
+        "Gross national income (GNI) per capita": "4,624",
+        "Life expectancy at birth": 66.1,
+        "hdi": 0.544
+    },
+    {
+        "Mean years of schooling": 10.3,
+        "GNI per capita rank minus HDI rank": "-17",
+        "rank": 69.0,
+        "iso-a3": "SYC",
+        "Expected years of schooling": 13.9,
+        "Gross national income (GNI) per capita": "25,831",
+        "Life expectancy at birth": 71.3,
+        "hdi": 0.785
+    },
+    {
+        "Mean years of schooling": 5.4,
+        "GNI per capita rank minus HDI rank": "-14",
+        "rank": 149.0,
+        "iso-a3": "ANG",
+        "Expected years of schooling": 12.2,
+        "Gross national income (GNI) per capita": "5,466",
+        "Life expectancy at birth": 61.6,
+        "hdi": 0.586
+    },
+    {
+        "Mean years of schooling": 8.5,
+        "GNI per capita rank minus HDI rank": "-7",
+        "rank": 104.0,
+        "iso-a3": "LCA",
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "12,048",
+        "Life expectancy at birth": 71.1,
+        "hdi": 0.715
+    },
+    {
+        "Mean years of schooling": 10.2,
+        "GNI per capita rank minus HDI rank": "-3",
+        "rank": 79.0,
+        "iso-a3": "MKD",
+        "Expected years of schooling": 13.6,
+        "Gross national income (GNI) per capita": "15,918",
+        "Life expectancy at birth": 73.8,
+        "hdi": 0.77
+    },
+    {
+        "Mean years of schooling": 7.0,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 180.0,
+        "iso-a3": "COD",
+        "Expected years of schooling": 9.8,
+        "Gross national income (GNI) per capita": "1,076",
+        "Life expectancy at birth": 59.2,
+        "hdi": 0.479
+    },
+    {
+        "Mean years of schooling": 8.7,
+        "GNI per capita rank minus HDI rank": "-16",
+        "rank": 76.0,
+        "iso-a3": "KNA",
+        "Expected years of schooling": 15.4,
+        "Gross national income (GNI) per capita": "23,358",
+        "Life expectancy at birth": 71.7,
+        "hdi": 0.777
+    },
+    {
+        "Mean years of schooling": 2.9,
+        "GNI per capita rank minus HDI rank": "-10",
+        "rank": 170.0,
+        "iso-a3": "SEN",
+        "Expected years of schooling": 9.0,
+        "Gross national income (GNI) per capita": "3,344",
+        "Life expectancy at birth": 67.1,
+        "hdi": 0.511
+    },
+    {
+        "Mean years of schooling": 10.8,
+        "GNI per capita rank minus HDI rank": 11.0,
+        "rank": 82.0,
+        "iso-a3": "VCT",
+        "Expected years of schooling": 14.7,
+        "Gross national income (GNI) per capita": "11,961",
+        "Life expectancy at birth": 69.6,
+        "hdi": 0.751
+    },
+    {
+        "Mean years of schooling": 11.6,
+        "GNI per capita rank minus HDI rank": "-3",
+        "rank": 8.0,
+        "iso-a3": "IRL",
+        "Expected years of schooling": 18.9,
+        "Gross national income (GNI) per capita": "76,169",
+        "Life expectancy at birth": 82.0,
+        "hdi": 0.945
+    },
+    {
+        "Mean years of schooling": 12.8,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 49.0,
+        "iso-a3": "RUS",
+        "Expected years of schooling": 15.8,
+        "Gross national income (GNI) per capita": "27,166",
+        "Life expectancy at birth": 69.4,
+        "hdi": 0.822
+    },
+    {
+        "Mean years of schooling": 4.9,
+        "GNI per capita rank minus HDI rank": "-20",
+        "rank": 158.0,
+        "iso-a3": "MRT",
+        "Expected years of schooling": 9.4,
+        "Gross national income (GNI) per capita": "5,075",
+        "Life expectancy at birth": 64.4,
+        "hdi": 0.556
+    },
+    {
+        "Mean years of schooling": 7.2,
+        "GNI per capita rank minus HDI rank": "-22",
+        "rank": 163.0,
+        "iso-a3": "NGA",
+        "Expected years of schooling": 10.1,
+        "Gross national income (GNI) per capita": "4,790",
+        "Life expectancy at birth": 52.7,
+        "hdi": 0.535
+    },
+    {
+        "Mean years of schooling": 11.8,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 81.0,
+        "iso-a3": "MDA",
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "14,875",
+        "Life expectancy at birth": 68.8,
+        "hdi": 0.767
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": 26.0,
+        "rank": 121.0,
+        "iso-a3": "KGZ",
+        "Expected years of schooling": 13.2,
+        "Gross national income (GNI) per capita": "4,566",
+        "Life expectancy at birth": 70.0,
+        "hdi": 0.692
+    },
+    {
+        "Mean years of schooling": 8.1,
+        "GNI per capita rank minus HDI rank": 13.0,
+        "rank": 96.0,
+        "iso-a3": "DZA",
+        "Expected years of schooling": 14.6,
+        "Gross national income (GNI) per capita": "10,800",
+        "Life expectancy at birth": 76.4,
+        "hdi": 0.745
+    },
+    {
+        "Mean years of schooling": 13.5,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 30.0,
+        "iso-a3": "EST",
+        "Expected years of schooling": 15.9,
+        "Gross national income (GNI) per capita": "38,048",
+        "Life expectancy at birth": 77.1,
+        "hdi": 0.89
+    },
+    {
+        "Mean years of schooling": 10.6,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 61.0,
+        "iso-a3": "MYS",
+        "Expected years of schooling": 13.3,
+        "Gross national income (GNI) per capita": "26,658",
+        "Life expectancy at birth": 74.9,
+        "hdi": 0.803
+    },
+    {
+        "Mean years of schooling": 13.8,
+        "GNI per capita rank minus HDI rank": 11.0,
+        "rank": 2.0,
+        "iso-a3": "ISL",
+        "Expected years of schooling": 19.2,
+        "Gross national income (GNI) per capita": "55,782",
+        "Life expectancy at birth": 82.7,
+        "hdi": 0.959
+    },
+    {
+        "Mean years of schooling": 12.8,
+        "GNI per capita rank minus HDI rank": 10.0,
+        "rank": 23.0,
+        "iso-a3": "SVN",
+        "Expected years of schooling": 17.7,
+        "Gross national income (GNI) per capita": "39,746",
+        "Life expectancy at birth": 80.7,
+        "hdi": 0.918
+    },
+    {
+        "Mean years of schooling": 9.2,
+        "GNI per capita rank minus HDI rank": "-42",
+        "rank": 49.0,
+        "iso-a3": "BRN",
+        "Expected years of schooling": 14.0,
+        "Gross national income (GNI) per capita": "64,490",
+        "Life expectancy at birth": 74.6,
+        "hdi": 0.829
+    },
+    {
+        "Mean years of schooling": 6.0,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 168.0,
+        "iso-a3": "LSO",
+        "Expected years of schooling": 12.0,
+        "Gross national income (GNI) per capita": "2,700",
+        "Life expectancy at birth": 53.1,
+        "hdi": 0.514
+    },
+    {
+        "Mean years of schooling": 5.1,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 152.0,
+        "iso-a3": "SYR",
+        "Expected years of schooling": 9.2,
+        "Gross national income (GNI) per capita": "4,192",
+        "Life expectancy at birth": 72.1,
+        "hdi": 0.577
+    },
+    {
+        "Mean years of schooling": 7.4,
+        "GNI per capita rank minus HDI rank": 10.0,
+        "rank": 94.0,
+        "iso-a3": "TUN",
+        "Expected years of schooling": 15.4,
+        "Gross national income (GNI) per capita": "10,258",
+        "Life expectancy at birth": 73.8,
+        "hdi": 0.731
+    },
+    {
+        "Mean years of schooling": 10.5,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 73.0,
+        "iso-a3": "BIH",
+        "Expected years of schooling": 13.8,
+        "Gross national income (GNI) per capita": "15,242",
+        "Life expectancy at birth": 75.3,
+        "hdi": 0.78
+    },
+    {
+        "Mean years of schooling": 11.7,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 51.0,
+        "iso-a3": "OMN",
+        "Expected years of schooling": 14.6,
+        "Gross national income (GNI) per capita": "27,054",
+        "Life expectancy at birth": 72.5,
+        "hdi": 0.816
+    },
+    {
+        "Mean years of schooling": 6.7,
+        "GNI per capita rank minus HDI rank": "-6",
+        "rank": 150.0,
+        "iso-a3": "KEN",
+        "Expected years of schooling": 10.7,
+        "Gross national income (GNI) per capita": "4,474",
+        "Life expectancy at birth": 61.4,
+        "hdi": 0.575
+    },
+    {
+        "Mean years of schooling": 9.9,
+        "GNI per capita rank minus HDI rank": 21.0,
+        "rank": 109.0,
+        "iso-a3": "PSE",
+        "Expected years of schooling": 13.4,
+        "Gross national income (GNI) per capita": "6,583",
+        "Life expectancy at birth": 73.5,
+        "hdi": 0.715
+    },
+    {
+        "Mean years of schooling": 11.1,
+        "GNI per capita rank minus HDI rank": 11.0,
+        "rank": 78.0,
+        "iso-a3": "UKR",
+        "Expected years of schooling": 15.0,
+        "Gross national income (GNI) per capita": "13,256",
+        "Life expectancy at birth": 71.6,
+        "hdi": 0.773
+    },
+    {
+        "Mean years of schooling": 13.3,
+        "GNI per capita rank minus HDI rank": 10.0,
+        "rank": 22.0,
+        "iso-a3": "ISR",
+        "Expected years of schooling": 16.1,
+        "Gross national income (GNI) per capita": "41,524",
+        "Life expectancy at birth": 82.3,
+        "hdi": 0.919
+    },
+    {
+        "Mean years of schooling": 2.6,
+        "GNI per capita rank minus HDI rank": "-7",
+        "rank": 190.0,
+        "iso-a3": "TCD",
+        "Expected years of schooling": 8.0,
+        "Gross national income (GNI) per capita": "1,364",
+        "Life expectancy at birth": 52.5,
+        "hdi": 0.394
+    },
+    {
+        "Mean years of schooling": 9.2,
+        "GNI per capita rank minus HDI rank": "-16",
+        "rank": 88.0,
+        "iso-a3": "MEX",
+        "Expected years of schooling": 14.9,
+        "Gross national income (GNI) per capita": "17,896",
+        "Life expectancy at birth": 70.2,
+        "hdi": 0.758
+    },
+    {
+        "Mean years of schooling": 10.6,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 131.0,
+        "iso-a3": "TUV",
+        "Expected years of schooling": 9.4,
+        "Gross national income (GNI) per capita": "6,351",
+        "Life expectancy at birth": 64.5,
+        "hdi": 0.641
+    },
+    {
+        "Mean years of schooling": 8.6,
+        "GNI per capita rank minus HDI rank": "-3",
+        "rank": 48.0,
+        "iso-a3": "TUR",
+        "Expected years of schooling": 18.3,
+        "Gross national income (GNI) per capita": "31,033",
+        "Life expectancy at birth": 76.0,
+        "hdi": 0.838
+    },
+    {
+        "Mean years of schooling": 13.5,
+        "GNI per capita rank minus HDI rank": 5.0,
+        "rank": 34.0,
+        "iso-a3": "LTU",
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "37,931",
+        "Life expectancy at birth": 73.7,
+        "hdi": 0.875
+    },
+    {
+        "Mean years of schooling": 13.4,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 17.0,
+        "iso-a3": "GBR",
+        "Expected years of schooling": 17.3,
+        "Gross national income (GNI) per capita": "45,225",
+        "Life expectancy at birth": 80.7,
+        "hdi": 0.929
+    },
+    {
+        "Mean years of schooling": 5.9,
+        "GNI per capita rank minus HDI rank": 1.0,
+        "rank": 122.0,
+        "iso-a3": "MAR",
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "7,303",
+        "Life expectancy at birth": 74.0,
+        "hdi": 0.683
+    },
+    {
+        "Mean years of schooling": 12.6,
+        "GNI per capita rank minus HDI rank": 3.0,
+        "rank": 10.0,
+        "iso-a3": "NLD",
+        "Expected years of schooling": 18.7,
+        "Gross national income (GNI) per capita": "55,979",
+        "Life expectancy at birth": 81.7,
+        "hdi": 0.941
+    },
+    {
+        "Mean years of schooling": 5.7,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 166.0,
+        "iso-a3": "UGA",
+        "Expected years of schooling": 10.1,
+        "Gross national income (GNI) per capita": "2,181",
+        "Life expectancy at birth": 62.7,
+        "hdi": 0.525
+    },
+    {
+        "Mean years of schooling": 9.0,
+        "GNI per capita rank minus HDI rank": 18.0,
+        "rank": 70.0,
+        "iso-a3": "GRD",
+        "Expected years of schooling": 18.7,
+        "Gross national income (GNI) per capita": "13,484",
+        "Life expectancy at birth": 74.9,
+        "hdi": 0.795
+    },
+    {
+        "Mean years of schooling": 5.4,
+        "GNI per capita rank minus HDI rank": "-18",
+        "rank": 142.0,
+        "iso-a3": "LAO",
+        "Expected years of schooling": 10.1,
+        "Gross national income (GNI) per capita": "7,700",
+        "Life expectancy at birth": 68.1,
+        "hdi": 0.607
+    },
+    {
+        "Mean years of schooling": 10.3,
+        "GNI per capita rank minus HDI rank": "-43",
+        "rank": 110.0,
+        "iso-a3": "BWA",
+        "Expected years of schooling": 12.3,
+        "Gross national income (GNI) per capita": "16,198",
+        "Life expectancy at birth": 61.1,
+        "hdi": 0.693
+    },
+    {
+        "Mean years of schooling": 8.1,
+        "GNI per capita rank minus HDI rank": "-5",
+        "rank": 86.0,
+        "iso-a3": "BRA",
+        "Expected years of schooling": 15.6,
+        "Gross national income (GNI) per capita": "14,370",
+        "Life expectancy at birth": 72.8,
+        "hdi": 0.754
+    },
+    {
+        "Mean years of schooling": 5.1,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 173.0,
+        "iso-a3": "MDG",
+        "Expected years of schooling": 10.1,
+        "Gross national income (GNI) per capita": "1,484",
+        "Life expectancy at birth": 64.5,
+        "hdi": 0.501
+    },
+    {
+        "Mean years of schooling": 11.3,
+        "GNI per capita rank minus HDI rank": 17.0,
+        "rank": 68.0,
+        "iso-a3": "ALB",
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "14,131",
+        "Life expectancy at birth": 76.5,
+        "hdi": 0.796
+    },
+    {
+        "Mean years of schooling": 6.3,
+        "GNI per capita rank minus HDI rank": 2.0,
+        "rank": 127.0,
+        "iso-a3": "CPV",
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "6,230",
+        "Life expectancy at birth": 74.1,
+        "hdi": 0.662
+    },
+    {
+        "Mean years of schooling": 14.1,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 7.0,
+        "iso-a3": "DEU",
+        "Expected years of schooling": 17.0,
+        "Gross national income (GNI) per capita": "54,534",
+        "Life expectancy at birth": 80.6,
+        "hdi": 0.942
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 62.0,
+        "iso-a3": "SRB",
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "19,123",
+        "Life expectancy at birth": 74.2,
+        "hdi": 0.802
+    },
+    {
+        "Mean years of schooling": 2.1,
+        "GNI per capita rank minus HDI rank": "-3",
+        "rank": 189.0,
+        "iso-a3": "NER",
+        "Expected years of schooling": 7.0,
+        "Gross national income (GNI) per capita": "1,240",
+        "Life expectancy at birth": 61.6,
+        "hdi": 0.4
+    },
+    {
+        "Mean years of schooling": 7.1,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 129.0,
+        "iso-a3": "NIC",
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "5,625",
+        "Life expectancy at birth": 73.8,
+        "hdi": 0.667
+    },
+    {
+        "Mean years of schooling": 4.5,
+        "GNI per capita rank minus HDI rank": 13.0,
+        "rank": 169.0,
+        "iso-a3": "MWI",
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "1,466",
+        "Life expectancy at birth": 62.9,
+        "hdi": 0.512
+    },
+    {
+        "Mean years of schooling": 11.3,
+        "GNI per capita rank minus HDI rank": "-10",
+        "rank": 38.0,
+        "iso-a3": "SAU",
+        "Expected years of schooling": 16.1,
+        "Gross national income (GNI) per capita": "46,112",
+        "Life expectancy at birth": 76.9,
+        "hdi": 0.875
+    },
+    {
+        "Mean years of schooling": 10.7,
+        "GNI per capita rank minus HDI rank": 0.0,
+        "rank": 32.0,
+        "iso-a3": "ITA",
+        "Expected years of schooling": 16.2,
+        "Gross national income (GNI) per capita": "42,840",
+        "Life expectancy at birth": 82.9,
+        "hdi": 0.895
+    },
+    {
+        "Mean years of schooling": 9.8,
+        "GNI per capita rank minus HDI rank": "-6",
+        "rank": 92.0,
+        "iso-a3": "SUR",
+        "Expected years of schooling": 13.0,
+        "Gross national income (GNI) per capita": "12,672",
+        "Life expectancy at birth": 70.3,
+        "hdi": 0.73
+    },
+    {
+        "Mean years of schooling": 9.0,
+        "GNI per capita rank minus HDI rank": "-3",
+        "rank": 113.0,
+        "iso-a3": "PHL",
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "8,920",
+        "Life expectancy at birth": 69.3,
+        "hdi": 0.699
+    },
+    {
+        "Mean years of schooling": 3.0,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 177.0,
+        "iso-a3": "AFG",
+        "Expected years of schooling": 10.3,
+        "Gross national income (GNI) per capita": "1,824",
+        "Life expectancy at birth": 62.0,
+        "hdi": 0.478
+    },
+    {
+        "Mean years of schooling": "..",
+        "GNI per capita rank minus HDI rank": "..",
+        "rank": "..",
+        "iso-a3": "SOM",
+        "Expected years of schooling": "..",
+        "Gross national income (GNI) per capita": "1,018",
+        "Life expectancy at birth": 55.3,
+        "hdi": ".."
+    },
+    {
+        "Mean years of schooling": 11.1,
+        "GNI per capita rank minus HDI rank": 17.0,
+        "rank": 47.0,
+        "iso-a3": "ARG",
+        "Expected years of schooling": 17.9,
+        "Gross national income (GNI) per capita": "20,925",
+        "Life expectancy at birth": 75.4,
+        "hdi": 0.842
+    },
+    {
+        "Mean years of schooling": 12.3,
+        "GNI per capita rank minus HDI rank": 1.0,
+        "rank": 59.0,
+        "iso-a3": "KAZ",
+        "Expected years of schooling": 15.8,
+        "Gross national income (GNI) per capita": "23,943",
+        "Life expectancy at birth": 69.4,
+        "hdi": 0.811
+    },
+    {
+        "Mean years of schooling": 7.4,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 128.0,
+        "iso-a3": "BGD",
+        "Expected years of schooling": 12.4,
+        "Gross national income (GNI) per capita": "5,472",
+        "Life expectancy at birth": 72.4,
+        "hdi": 0.661
+    },
+    {
+        "Mean years of schooling": 11.0,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 35.0,
+        "iso-a3": "BHR",
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "39,497",
+        "Life expectancy at birth": 78.8,
+        "hdi": 0.875
+    },
+    {
+        "Mean years of schooling": 7.3,
+        "GNI per capita rank minus HDI rank": "-14",
+        "rank": 97.0,
+        "iso-a3": "MDV",
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "15,448",
+        "Life expectancy at birth": 79.9,
+        "hdi": 0.747
+    },
+    {
+        "Mean years of schooling": 6.4,
+        "GNI per capita rank minus HDI rank": 5.0,
+        "rank": 145.0,
+        "iso-a3": "MMR",
+        "Expected years of schooling": 10.9,
+        "Gross national income (GNI) per capita": "3,851",
+        "Life expectancy at birth": 65.7,
+        "hdi": 0.585
+    },
+    {
+        "Mean years of schooling": 10.9,
+        "GNI per capita rank minus HDI rank": 12.0,
+        "rank": 131.0,
+        "iso-a3": "MHL",
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "4,620",
+        "Life expectancy at birth": 65.3,
+        "hdi": 0.639
+    },
+    {
+        "Mean years of schooling": 13.3,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 37.0,
+        "iso-a3": "LVA",
+        "Expected years of schooling": 16.2,
+        "Gross national income (GNI) per capita": "32,803",
+        "Life expectancy at birth": 73.6,
+        "hdi": 0.863
+    },
+    {
+        "Mean years of schooling": 7.6,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 82.0,
+        "iso-a3": "CHN",
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "17,504",
+        "Life expectancy at birth": 78.2,
+        "hdi": 0.768
+    },
+    {
+        "Mean years of schooling": 8.6,
+        "GNI per capita rank minus HDI rank": "-47",
+        "rank": 107.0,
+        "iso-a3": "GUY",
+        "Expected years of schooling": 12.5,
+        "Gross national income (GNI) per capita": "22,465",
+        "Life expectancy at birth": 65.7,
+        "hdi": 0.714
+    },
+    {
+        "Mean years of schooling": 12.4,
+        "GNI per capita rank minus HDI rank": 7.0,
+        "rank": 16.0,
+        "iso-a3": "BEL",
+        "Expected years of schooling": 19.6,
+        "Gross national income (GNI) per capita": "52,293",
+        "Life expectancy at birth": 81.9,
+        "hdi": 0.937
+    },
+    {
+        "Mean years of schooling": 9.3,
+        "GNI per capita rank minus HDI rank": 2.0,
+        "rank": 71.0,
+        "iso-a3": "ATG",
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "16,792",
+        "Life expectancy at birth": 78.5,
+        "hdi": 0.788
+    },
+    {
+        "Mean years of schooling": 2.1,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 185.0,
+        "iso-a3": "BFA",
+        "Expected years of schooling": 9.1,
+        "Gross national income (GNI) per capita": "2,118",
+        "Life expectancy at birth": 59.3,
+        "hdi": 0.449
+    },
+    {
+        "Mean years of schooling": 5.1,
+        "GNI per capita rank minus HDI rank": 7.0,
+        "rank": 179.0,
+        "iso-a3": "LBR",
+        "Expected years of schooling": 10.4,
+        "Gross national income (GNI) per capita": "1,289",
+        "Life expectancy at birth": 60.7,
+        "hdi": 0.481
+    },
+    {
+        "Mean years of schooling": 13.0,
+        "GNI per capita rank minus HDI rank": "-13",
+        "rank": 17.0,
+        "iso-a3": "LUX",
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "84,649",
+        "Life expectancy at birth": 82.6,
+        "hdi": 0.93
+    },
+    {
+        "Mean years of schooling": 10.6,
+        "GNI per capita rank minus HDI rank": 15.0,
+        "rank": 77.0,
+        "iso-a3": "IRN",
+        "Expected years of schooling": 14.6,
+        "Gross national income (GNI) per capita": "13,001",
+        "Life expectancy at birth": 73.9,
+        "hdi": 0.774
+    },
+    {
+        "Mean years of schooling": 12.9,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 30.0,
+        "iso-a3": "CZE",
+        "Expected years of schooling": 16.2,
+        "Gross national income (GNI) per capita": "38,745",
+        "Life expectancy at birth": 77.7,
+        "hdi": 0.889
+    },
+    {
+        "Mean years of schooling": 10.4,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 62.0,
+        "iso-a3": "MUS",
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "22,025",
+        "Life expectancy at birth": 73.6,
+        "hdi": 0.802
+    },
+    {
+        "Mean years of schooling": 12.5,
+        "GNI per capita rank minus HDI rank": "-15",
+        "rank": 14.0,
+        "iso-a3": "LIE",
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "146,830",
+        "Life expectancy at birth": 83.3,
+        "hdi": 0.935
+    },
+    {
+        "Mean years of schooling": 7.2,
+        "GNI per capita rank minus HDI rank": "-23",
+        "rank": 134.0,
+        "iso-a3": "NAM",
+        "Expected years of schooling": 11.9,
+        "Gross national income (GNI) per capita": "8,634",
+        "Life expectancy at birth": 59.3,
+        "hdi": 0.615
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": 17.0,
+        "rank": 33.0,
+        "iso-a3": "GRC",
+        "Expected years of schooling": 20.0,
+        "Gross national income (GNI) per capita": "29,002",
+        "Life expectancy at birth": 80.1,
+        "hdi": 0.887
+    },
+    {
+        "Mean years of schooling": "..",
+        "GNI per capita rank minus HDI rank": "..",
+        "rank": "..",
+        "iso-a3": "NRU",
+        "Expected years of schooling": 11.7,
+        "Gross national income (GNI) per capita": "17,730",
+        "Life expectancy at birth": 63.6,
+        "hdi": ".."
+    },
+    {
+        "Mean years of schooling": 8.8,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 120.0,
+        "iso-a3": "BLZ",
+        "Expected years of schooling": 13.0,
+        "Gross national income (GNI) per capita": "6,309",
+        "Life expectancy at birth": 70.5,
+        "hdi": 0.683
+    },
+    {
+        "Mean years of schooling": 10.9,
+        "GNI per capita rank minus HDI rank": 9.0,
+        "rank": 94.0,
+        "iso-a3": "FJI",
+        "Expected years of schooling": 14.7,
+        "Gross national income (GNI) per capita": "9,980",
+        "Life expectancy at birth": 67.1,
+        "hdi": 0.73
+    },
+    {
+        "Mean years of schooling": 11.3,
+        "GNI per capita rank minus HDI rank": "-4",
+        "rank": 53.0,
+        "iso-a3": "ROU",
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "30,027",
+        "Life expectancy at birth": 74.2,
+        "hdi": 0.821
+    },
+    {
+        "Mean years of schooling": 12.1,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 60.0,
+        "iso-a3": "BLR",
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "18,849",
+        "Life expectancy at birth": 72.4,
+        "hdi": 0.808
+    },
+    {
+        "Mean years of schooling": 12.9,
+        "GNI per capita rank minus HDI rank": 16.0,
+        "rank": 13.0,
+        "iso-a3": "NZL",
+        "Expected years of schooling": 20.3,
+        "Gross national income (GNI) per capita": "44,057",
+        "Life expectancy at birth": 82.5,
+        "hdi": 0.937
+    },
+    {
+        "Mean years of schooling": 13.2,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 36.0,
+        "iso-a3": "POL",
+        "Expected years of schooling": 16.0,
+        "Gross national income (GNI) per capita": "33,034",
+        "Life expectancy at birth": 76.5,
+        "hdi": 0.876
+    },
+    {
+        "Mean years of schooling": 6.7,
+        "GNI per capita rank minus HDI rank": "-6",
+        "rank": 130.0,
+        "iso-a3": "IND",
+        "Expected years of schooling": 11.9,
+        "Gross national income (GNI) per capita": "6,590",
+        "Life expectancy at birth": 67.2,
+        "hdi": 0.633
+    },
+    {
+        "Mean years of schooling": 5.1,
+        "GNI per capita rank minus HDI rank": 3.0,
+        "rank": 148.0,
+        "iso-a3": "KHM",
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "4,079",
+        "Life expectancy at birth": 69.6,
+        "hdi": 0.593
+    },
+    {
+        "Mean years of schooling": 3.8,
+        "GNI per capita rank minus HDI rank": "-14",
+        "rank": 171.0,
+        "iso-a3": "SDN",
+        "Expected years of schooling": 7.9,
+        "Gross national income (GNI) per capita": "3,575",
+        "Life expectancy at birth": 65.3,
+        "hdi": 0.508
+    },
+    {
+        "Mean years of schooling": 12.2,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 44.0,
+        "iso-a3": "HUN",
+        "Expected years of schooling": 15.0,
+        "Gross national income (GNI) per capita": "32,789",
+        "Life expectancy at birth": 74.5,
+        "hdi": 0.846
+    },
+    {
+        "Mean years of schooling": "..",
+        "GNI per capita rank minus HDI rank": "..",
+        "rank": "..",
+        "iso-a3": "MCO",
+        "Expected years of schooling": "..",
+        "Gross national income (GNI) per capita": "..",
+        "Life expectancy at birth": 85.9,
+        "hdi": ".."
+    },
+    {
+        "Mean years of schooling": 10.8,
+        "GNI per capita rank minus HDI rank": "-25",
+        "rank": 46.0,
+        "iso-a3": "SMR",
+        "Expected years of schooling": 12.3,
+        "Gross national income (GNI) per capita": "52,654",
+        "Life expectancy at birth": 80.9,
+        "hdi": 0.853
+    },
+    {
+        "Mean years of schooling": 10.6,
+        "GNI per capita rank minus HDI rank": 10.0,
+        "rank": 27.0,
+        "iso-a3": "ESP",
+        "Expected years of schooling": 17.9,
+        "Gross national income (GNI) per capita": "38,354",
+        "Life expectancy at birth": 83.0,
+        "hdi": 0.905
+    },
+    {
+        "Mean years of schooling": 5.1,
+        "GNI per capita rank minus HDI rank": 10.0,
+        "rank": 144.0,
+        "iso-a3": "NPL",
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "3,877",
+        "Life expectancy at birth": 68.4,
+        "hdi": 0.602
+    },
+    {
+        "Mean years of schooling": 12.5,
+        "GNI per capita rank minus HDI rank": 37.0,
+        "rank": 73.0,
+        "iso-a3": "CUB",
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "7,879",
+        "Life expectancy at birth": 73.7,
+        "hdi": 0.764
+    },
+    {
+        "Mean years of schooling": 6.4,
+        "GNI per capita rank minus HDI rank": 7.0,
+        "rank": 160.0,
+        "iso-a3": "TZA",
+        "Expected years of schooling": 9.2,
+        "Gross national income (GNI) per capita": "2,664",
+        "Life expectancy at birth": 66.2,
+        "hdi": 0.549
+    },
+    {
+        "Mean years of schooling": 12.7,
+        "GNI per capita rank minus HDI rank": "-15",
+        "rank": 25.0,
+        "iso-a3": "ARE",
+        "Expected years of schooling": 15.7,
+        "Gross national income (GNI) per capita": "62,574",
+        "Life expectancy at birth": 78.7,
+        "hdi": 0.911
+    },
+    {
+        "Mean years of schooling": 12.9,
+        "GNI per capita rank minus HDI rank": 11.0,
+        "rank": 12.0,
+        "iso-a3": "FIN",
+        "Expected years of schooling": 19.1,
+        "Gross national income (GNI) per capita": "49,452",
+        "Life expectancy at birth": 82.0,
+        "hdi": 0.94
+    },
+    {
+        "Mean years of schooling": 12.2,
+        "GNI per capita rank minus HDI rank": 12.0,
+        "rank": 26.0,
+        "iso-a3": "MLT",
+        "Expected years of schooling": 16.8,
+        "Gross national income (GNI) per capita": "38,884",
+        "Life expectancy at birth": 83.8,
+        "hdi": 0.918
+    },
+    {
+        "Mean years of schooling": 10.6,
+        "GNI per capita rank minus HDI rank": "-19",
+        "rank": 45.0,
+        "iso-a3": "AND",
+        "Expected years of schooling": 13.3,
+        "Gross national income (GNI) per capita": "51,167",
+        "Life expectancy at birth": 80.4,
+        "hdi": 0.858
+    },
+    {
+        "Mean years of schooling": 4.1,
+        "GNI per capita rank minus HDI rank": "-32",
+        "rank": 171.0,
+        "iso-a3": "DJI",
+        "Expected years of schooling": 7.4,
+        "Gross national income (GNI) per capita": "5,025",
+        "Life expectancy at birth": 62.3,
+        "hdi": 0.509
+    },
+    {
+        "Mean years of schooling": 10.4,
+        "GNI per capita rank minus HDI rank": 8.0,
+        "rank": 104.0,
+        "iso-a3": "JOR",
+        "Expected years of schooling": 10.6,
+        "Gross national income (GNI) per capita": "9,924",
+        "Life expectancy at birth": 74.3,
+        "hdi": 0.72
+    },
+    {
+        "Mean years of schooling": 13.4,
+        "GNI per capita rank minus HDI rank": 12.0,
+        "rank": 19.0,
+        "iso-a3": "JPN",
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "42,274",
+        "Life expectancy at birth": 84.8,
+        "hdi": 0.925
+    },
+    {
+        "Mean years of schooling": 8.9,
+        "GNI per capita rank minus HDI rank": "-10",
+        "rank": 100.0,
+        "iso-a3": "PRY",
+        "Expected years of schooling": 13.0,
+        "Gross national income (GNI) per capita": "12,349",
+        "Life expectancy at birth": 70.3,
+        "hdi": 0.717
+    },
+    {
+        "Mean years of schooling": 9.3,
+        "GNI per capita rank minus HDI rank": "-11",
+        "rank": 82.0,
+        "iso-a3": "DOM",
+        "Expected years of schooling": 14.5,
+        "Gross national income (GNI) per capita": "17,990",
+        "Life expectancy at birth": 72.6,
+        "hdi": 0.767
+    },
+    {
+        "Mean years of schooling": 8.1,
+        "GNI per capita rank minus HDI rank": 0.0,
+        "rank": 106.0,
+        "iso-a3": "DMA",
+        "Expected years of schooling": 13.3,
+        "Gross national income (GNI) per capita": "11,488",
+        "Life expectancy at birth": 72.8,
+        "hdi": 0.72
+    },
+    {
+        "Mean years of schooling": 8.3,
+        "GNI per capita rank minus HDI rank": "-2",
+        "rank": 135.0,
+        "iso-a3": "GHA",
+        "Expected years of schooling": 12.0,
+        "Gross national income (GNI) per capita": "5,745",
+        "Life expectancy at birth": 63.8,
+        "hdi": 0.632
+    },
+    {
+        "Mean years of schooling": 6.2,
+        "GNI per capita rank minus HDI rank": 13.0,
+        "rank": 139.0,
+        "iso-a3": "STP",
+        "Expected years of schooling": 13.4,
+        "Gross national income (GNI) per capita": "4,021",
+        "Life expectancy at birth": 67.6,
+        "hdi": 0.618
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": 24.0,
+        "rank": 112.0,
+        "iso-a3": "WSM",
+        "Expected years of schooling": 12.4,
+        "Gross national income (GNI) per capita": "5,308",
+        "Life expectancy at birth": 72.8,
+        "hdi": 0.707
+    },
+    {
+        "Mean years of schooling": 11.3,
+        "GNI per capita rank minus HDI rank": "-1",
+        "rank": 93.0,
+        "iso-a3": "TKM",
+        "Expected years of schooling": 13.2,
+        "Gross national income (GNI) per capita": "13,021",
+        "Life expectancy at birth": 69.3,
+        "hdi": 0.745
+    },
+    {
+        "Mean years of schooling": 5.2,
+        "GNI per capita rank minus HDI rank": "-15",
+        "rank": 125.0,
+        "iso-a3": "BTN",
+        "Expected years of schooling": 13.2,
+        "Gross national income (GNI) per capita": "9,438",
+        "Life expectancy at birth": 71.8,
+        "hdi": 0.666
+    },
+    {
+        "Mean years of schooling": 9.0,
+        "GNI per capita rank minus HDI rank": 5.0,
+        "rank": 55.0,
+        "iso-a3": "URY",
+        "Expected years of schooling": 16.8,
+        "Gross national income (GNI) per capita": "21,269",
+        "Life expectancy at birth": 75.4,
+        "hdi": 0.809
+    },
+    {
+        "Mean years of schooling": 2.2,
+        "GNI per capita rank minus HDI rank": "-13",
+        "rank": 182.0,
+        "iso-a3": "GIN",
+        "Expected years of schooling": 9.8,
+        "Gross national income (GNI) per capita": "2,481",
+        "Life expectancy at birth": 58.9,
+        "hdi": 0.465
+    },
+    {
+        "Mean years of schooling": 10.5,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 67.0,
+        "iso-a3": "PAN",
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "26,957",
+        "Life expectancy at birth": 76.2,
+        "hdi": 0.805
+    },
+    {
+        "Mean years of schooling": 11.9,
+        "GNI per capita rank minus HDI rank": "-10",
+        "rank": 10.0,
+        "iso-a3": "SGP",
+        "Expected years of schooling": 16.5,
+        "Gross national income (GNI) per capita": "90,919",
+        "Life expectancy at birth": 82.8,
+        "hdi": 0.939
+    },
+    {
+        "Mean years of schooling": 7.2,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 124.0,
+        "iso-a3": "SLV",
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "8,296",
+        "Life expectancy at birth": 70.7,
+        "hdi": 0.675
+    },
+    {
+        "Mean years of schooling": 5.7,
+        "GNI per capita rank minus HDI rank": "-20",
+        "rank": 133.0,
+        "iso-a3": "GTM",
+        "Expected years of schooling": 10.6,
+        "Gross national income (GNI) per capita": "8,723",
+        "Life expectancy at birth": 69.2,
+        "hdi": 0.627
+    },
+    {
+        "Mean years of schooling": 12.2,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 4.0,
+        "iso-a3": "HKG",
+        "Expected years of schooling": 17.3,
+        "Gross national income (GNI) per capita": "62,607",
+        "Life expectancy at birth": 85.5,
+        "hdi": 0.952
+    },
+    {
+        "Mean years of schooling": 10.9,
+        "GNI per capita rank minus HDI rank": 14.0,
+        "rank": 43.0,
+        "iso-a3": "CHL",
+        "Expected years of schooling": 16.7,
+        "Gross national income (GNI) per capita": "24,563",
+        "Life expectancy at birth": 78.9,
+        "hdi": 0.855
+    },
+    {
+        "Mean years of schooling": 3.1,
+        "GNI per capita rank minus HDI rank": 4.0,
+        "rank": 187.0,
+        "iso-a3": "BDI",
+        "Expected years of schooling": 10.7,
+        "Gross national income (GNI) per capita": 732.0,
+        "Life expectancy at birth": 61.7,
+        "hdi": 0.426
+    },
+    {
+        "Mean years of schooling": 5.6,
+        "GNI per capita rank minus HDI rank": 2.0,
+        "rank": 162.0,
+        "iso-a3": "HTI",
+        "Expected years of schooling": 9.7,
+        "Gross national income (GNI) per capita": "2,848",
+        "Life expectancy at birth": 63.2,
+        "hdi": 0.535
+    },
+    {
+        "Mean years of schooling": 6.2,
+        "GNI per capita rank minus HDI rank": 6.0,
+        "rank": 150.0,
+        "iso-a3": "CMR",
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "3,621",
+        "Life expectancy at birth": 60.3,
+        "hdi": 0.576
+    },
+    {
+        "Mean years of schooling": 11.4,
+        "GNI per capita rank minus HDI rank": "-8",
+        "rank": 64.0,
+        "iso-a3": "BGR",
+        "Expected years of schooling": 13.9,
+        "Gross national income (GNI) per capita": "23,079",
+        "Life expectancy at birth": 71.8,
+        "hdi": 0.795
+    },
+    {
+      "Mean years of schooling": 8.6,
+      "GNI per capita rank minus HDI rank": "..",
+      "rank": "..",
+      "iso-a3": "WORLD",
+      "Expected years of schooling": 12.8,
+      "Gross national income (GNI) per capita": "16,752",
+      "Life expectancy at birth": 71.4,
+      "hdi": 0.732
+  }
+]
