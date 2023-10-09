@@ -292,5 +292,9 @@
   {
       "country": "Holy See",
       "iso-a3": "VAT"
-  }
+  },
+  {
+    "country": "Dominica",
+    "iso-a3": "DMA"
+}
 ]
