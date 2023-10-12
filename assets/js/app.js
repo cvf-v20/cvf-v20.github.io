@@ -55198,9 +55198,9 @@ esign.drawWarmingMap = function(data, dataEU, seriesName) {
             esign.cache.dataSelected = true;
             esign.cache.isoSelected = this['iso-a3'];
 
-            if(esign.cache.countriesEU27.indexOf(esign.cache.isoSelected) > -1) {
-              esign.cache.isoSelected = 'EU';
-            }
+            // if(esign.cache.countriesEU27.indexOf(esign.cache.isoSelected) > -1) {
+            //   esign.cache.isoSelected = 'EU';
+            // }
 
             for (var i = 0; i < esign.cache.countries.length; i++ ) {
               if(esign.cache.countries[i]['iso-a3'] === esign.cache.isoSelected) esign.cache.countrySelected = esign.cache.countries[i]['country'];

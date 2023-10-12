@@ -10068,7 +10068,7 @@ html.no-flexbox .equal-h > div {
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   color: #1f2624;
-  padding: 20px 0 20px 70px;
+  padding: 20px;
   height: 60px;
   letter-spacing: 2px;
   line-height: 20px;
@@ -11783,4 +11783,4 @@ article a:focus img {
 
 /*# sourceMappingURL=style.css.map */
 
-/*# sourceMappingURL=style-61acf74b9d.css.map */
+/*# sourceMappingURL=style-72aec46064.css.map */
