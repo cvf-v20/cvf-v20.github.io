@@ -52799,6 +52799,7 @@ esign.cacheSelectors = function () {
     grossAverageCheck: false,
     currentFilterSelector: null,
     currentFilterApproach: null,
+    showCountryDataAsEU: true,
 
     $absoluteTrigger: $('#absolute'),
     $relativeTrigger: $('#relative'),
@@ -55198,9 +55199,9 @@ esign.drawWarmingMap = function(data, dataEU, seriesName) {
             esign.cache.dataSelected = true;
             esign.cache.isoSelected = this['iso-a3'];
 
-            // if(esign.cache.countriesEU27.indexOf(esign.cache.isoSelected) > -1) {
-            //   esign.cache.isoSelected = 'EU';
-            // }
+            if(esign.cache.showCountryDataAsEU && esign.cache.countriesEU27.indexOf(esign.cache.isoSelected) > -1) {
+              esign.cache.isoSelected = 'EU';
+            }
 
             for (var i = 0; i < esign.cache.countries.length; i++ ) {
               if(esign.cache.countries[i]['iso-a3'] === esign.cache.isoSelected) esign.cache.countrySelected = esign.cache.countries[i]['country'];
@@ -55214,6 +55215,8 @@ esign.drawWarmingMap = function(data, dataEU, seriesName) {
             }
           },
           mouseOver: function (event) {
+            esign.cache.showCountryDataAsEU = true;
+
             setTrafficLightCond(true, findConditionalValue(this['iso-a3']));
             setTrafficLightUncond(true, findUnconditionalValue(this['iso-a3']));
 
@@ -55487,6 +55490,8 @@ esign.drawWarmingMap = function(data, dataEU, seriesName) {
     esign.cache.dataSelected = true;
     iso = this.getAttribute('data-iso');
     if(esign.cache.isoSelected !== iso) {
+      esign.cache.showCountryDataAsEU = false;
+
       for(var i = 0; i < esign.cache.map.series[0].data.length; i++) {
         if(esign.cache.map.series[0].data[i]['iso-a3'] === iso) {
           tooltip = esign.cache.map.series[0].data[i];
@@ -55921,11 +55926,24 @@ esign.createCountryIndicators = function() {
   currGlobalEmission.innerHTML = data[0]['global-emissions'];
 
   const currCountryHdi = document.querySelector('.js-country-hdi');
-  console.log(dataHdi.length);
   if(dataHdi.length > 0) {
     currCountryHdi.innerHTML = dataHdi[0]['hdi'];
   } else {
     currCountryHdi.innerHTML = '/';
+  }
+
+  const options = {
+    style: 'decimal',  // Other options: 'currency', 'percent', etc.
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+  };
+  const formattedWithOptions = (data[0]['gdp'] / 1000000).toLocaleString('en-US', options);
+
+  const currCountryGdp = document.querySelector('.js-country-gdp');
+  if(data[0]['gdp'] > 0) {
+    currCountryGdp.innerHTML = formattedWithOptions;
+  } else {
+    currCountryGdp.innerHTML = '/';
   }
 }
 
@@ -55957,8 +55975,6 @@ esign.showCountriesFromCountryGroup = function (countries, overview) {
   countries.forEach(country => {
     if(country.value === '1') {
       const countryData = esign.cache.countries.filter((el) => el["iso-a3"] === country['iso-3']);
-
-      console.log(countryData);
 
       if(countryData[0]) {
         const countryEl = document.createElement("div");
@@ -56563,4 +56579,4 @@ define("../resources/assets/js/esign", function(){});
 
 //# sourceMappingURL=app.js.map
 
-//# sourceMappingURL=app-6a9afc1ad2.js.map
+//# sourceMappingURL=app-92795d029c.js.map

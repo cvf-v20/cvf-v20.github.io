@@ -1,1254 +1,1045 @@
 [
     {
-        "gdp": "", 
         "current-capita": 0.8, 
         "global-emissions": 0.06, 
         "iso-a3": "AFG"
     }, 
     {
-        "gdp": 106713618735.43, 
         "current-capita": 2.66, 
         "global-emissions": 0.18, 
         "iso-a3": "AGO"
     }, 
     {
-        "gdp": 18882095517.88, 
         "current-capita": 2.8, 
         "global-emissions": 0.02, 
         "iso-a3": "ALB"
     }, 
     {
-        "gdp": 3352032737.04, 
         "current-capita": 7.63, 
         "global-emissions": 0.0, 
         "iso-a3": "AND"
     }, 
     {
-        "gdp": 507534921715.45, 
         "current-capita": 25.25, 
         "global-emissions": 0.47, 
         "iso-a3": "ARE"
     }, 
     {
-        "gdp": 632770284408.51, 
         "current-capita": 8.71, 
         "global-emissions": 0.78, 
         "iso-a3": "ARG"
     }, 
     {
-        "gdp": 19502783987.88, 
         "current-capita": 3.99, 
         "global-emissions": 0.02, 
         "iso-a3": "ARM"
     }, 
     {
-        "gdp": 1757603703.7, 
         "current-capita": 6.83, 
         "global-emissions": 0.0, 
         "iso-a3": "ATG"
     }, 
     {
-        "gdp": 1675418665067.09, 
         "current-capita": 20.78, 
         "global-emissions": 1.06, 
         "iso-a3": "AUS"
     }, 
     {
-        "gdp": 471400066091.25, 
         "current-capita": 8.84, 
         "global-emissions": 0.16, 
         "iso-a3": "AUT"
     }, 
     {
-        "gdp": 78721058823.53, 
         "current-capita": 5.8, 
         "global-emissions": 0.12, 
         "iso-a3": "AZE"
     }, 
     {
-        "gdp": 3073414677.84, 
         "current-capita": 0.52, 
         "global-emissions": 0.01, 
         "iso-a3": "BDI"
     }, 
     {
-        "gdp": 578604103123.35, 
         "current-capita": 11.25, 
         "global-emissions": 0.26, 
         "iso-a3": "BEL"
     }, 
     {
-        "gdp": 17401746309.27, 
         "current-capita": 1.48, 
         "global-emissions": 0.04, 
         "iso-a3": "BEN"
     }, 
     {
-        "gdp": 18884619613.44, 
         "current-capita": 1.75, 
         "global-emissions": 0.08, 
         "iso-a3": "BFA"
     }, 
     {
-        "gdp": 460201000095.1, 
         "current-capita": 1.48, 
         "global-emissions": 0.5, 
         "iso-a3": "BGD"
     }, 
     {
-        "gdp": 89040398406.37, 
         "current-capita": 9.01, 
         "global-emissions": 0.12, 
         "iso-a3": "BGR"
     }, 
     {
-        "gdp": 44390820478.72, 
         "current-capita": 20.59, 
         "global-emissions": 0.06, 
         "iso-a3": "BHR"
     }, 
     {
-        "gdp": 12897400000.0, 
         "current-capita": 6.31, 
         "global-emissions": 0.01, 
         "iso-a3": "BHS"
     }, 
     {
-        "gdp": 24527507287.8, 
         "current-capita": 8.03, 
         "global-emissions": 0.05, 
         "iso-a3": "BIH"
     }, 
     {
-        "gdp": 72793457588.44, 
         "current-capita": 10.9, 
         "global-emissions": 0.21, 
         "iso-a3": "BLR"
     }, 
     {
-        "gdp": 2824081836.2, 
         "current-capita": 3.51, 
         "global-emissions": 0.0, 
         "iso-a3": "BLZ"
     }, 
     {
-        "gdp": 43068885672.94, 
         "current-capita": 11.57, 
         "global-emissions": 0.28, 
         "iso-a3": "BOL"
     }, 
     {
-        "gdp": 1920095560995.06, 
         "current-capita": 6.16, 
         "global-emissions": 2.61, 
         "iso-a3": "BRA"
     }, 
     {
-        "gdp": 5637914514.64, 
         "current-capita": 5.45, 
         "global-emissions": 0.0, 
         "iso-a3": "BRB"
     }, 
     {
-        "gdp": 16681531645.73, 
         "current-capita": 35.34, 
         "global-emissions": 0.03, 
         "iso-a3": "BRN"
     }, 
     {
-        "gdp": "", 
         "current-capita": 4.5, 
         "global-emissions": 0.01, 
         "iso-a3": "BTN"
     }, 
     {
-        "gdp": 20352322157.15, 
         "current-capita": 5.61, 
         "global-emissions": 0.03, 
         "iso-a3": "BWA"
     }, 
     {
-        "gdp": 2382618615.36, 
         "current-capita": 3.59, 
         "global-emissions": 0.04, 
         "iso-a3": "CAF"
     }, 
     {
-        "gdp": 2139840023673.81, 
         "current-capita": 19.38, 
         "global-emissions": 1.46, 
         "iso-a3": "CAN"
     }, 
     {
-        "gdp": 807706035351.75, 
         "current-capita": 4.66, 
         "global-emissions": 0.08, 
         "iso-a3": "CHE"
     }, 
     {
-        "gdp": 301025249437.95, 
         "current-capita": 5.98, 
         "global-emissions": 0.23, 
         "iso-a3": "CHL"
     }, 
     {
-        "gdp": 17963170521079.8, 
         "current-capita": 10.08, 
         "global-emissions": 28.5, 
         "iso-a3": "CHN"
     }, 
     {
-        "gdp": 70018715016.7, 
         "current-capita": 1.2, 
         "global-emissions": 0.06, 
         "iso-a3": "CIV"
     }, 
     {
-        "gdp": 44341646509.22, 
         "current-capita": 1.46, 
         "global-emissions": 0.08, 
         "iso-a3": "CMR"
     }, 
     {
-        "gdp": 58065953573.32, 
         "current-capita": 2.75, 
         "global-emissions": 0.51, 
         "iso-a3": "COD"
     }, 
     {
-        "gdp": 14615532210.05, 
         "current-capita": 1.2, 
         "global-emissions": 0.01, 
         "iso-a3": "COG"
     }, 
     {
-        "gdp": "", 
         "current-capita": 5.63, 
         "global-emissions": 0.0, 
         "iso-a3": "COK"
     }, 
     {
-        "gdp": 343939445259.49, 
         "current-capita": 4.18, 
         "global-emissions": 0.42, 
         "iso-a3": "COL"
     }, 
     {
-        "gdp": 1242519407.28, 
         "current-capita": 0.64, 
         "global-emissions": 0.0, 
         "iso-a3": "COM"
     }, 
     {
-        "gdp": 2314816792.06, 
         "current-capita": 1.91, 
         "global-emissions": 0.0, 
         "iso-a3": "CPV"
     }, 
     {
-        "gdp": 68380838316.28, 
         "current-capita": 3.24, 
         "global-emissions": 0.03, 
         "iso-a3": "CRI"
     }, 
     {
-        "gdp": "", 
         "current-capita": 3.98, 
         "global-emissions": 0.09, 
         "iso-a3": "CUB"
     }, 
     {
-        "gdp": 28439052740.86, 
         "current-capita": 6.5, 
         "global-emissions": 0.02, 
         "iso-a3": "CYP"
     }, 
     {
-        "gdp": 290923534700.52, 
         "current-capita": 11.2, 
         "global-emissions": 0.23, 
         "iso-a3": "CZE"
     }, 
     {
-        "gdp": 4072191736089.51, 
         "current-capita": 8.96, 
         "global-emissions": 1.48, 
         "iso-a3": "DEU"
     }, 
     {
-        "gdp": 3515109075.46, 
         "current-capita": 1.65, 
         "global-emissions": 0.0, 
         "iso-a3": "DJI"
     }, 
     {
-        "gdp": 612048148.15, 
         "current-capita": 3.57, 
         "global-emissions": 0.0, 
         "iso-a3": "DMA"
     }, 
     {
-        "gdp": 395403906582.0, 
         "current-capita": 7.21, 
         "global-emissions": 0.08, 
         "iso-a3": "DNK"
     }, 
     {
-        "gdp": 113641857434.0, 
         "current-capita": 3.78, 
         "global-emissions": 0.08, 
         "iso-a3": "DOM"
     }, 
     {
-        "gdp": 191912889420.91, 
         "current-capita": 4.58, 
         "global-emissions": 0.4, 
         "iso-a3": "DZA"
     }, 
     {
-        "gdp": 115049476000.0, 
         "current-capita": 4.22, 
         "global-emissions": 0.15, 
         "iso-a3": "ECU"
     }, 
     {
-        "gdp": 476747720364.74, 
         "current-capita": 3.31, 
         "global-emissions": 0.71, 
         "iso-a3": "EGY"
     }, 
     {
-        "gdp": "", 
         "current-capita": 2.01, 
         "global-emissions": 0.01, 
         "iso-a3": "ERI"
     }, 
     {
-        "gdp": 1397509272054.48, 
         "current-capita": 6.51, 
         "global-emissions": 0.61, 
         "iso-a3": "ESP"
     }, 
     {
-        "gdp": 38100812958.52, 
         "current-capita": 16.59, 
         "global-emissions": 0.04, 
         "iso-a3": "EST"
     }, 
     {
-        "gdp": 126783472501.13, 
         "current-capita": 1.63, 
         "global-emissions": 0.38, 
         "iso-a3": "ETH"
     }, 
     {
-        "gdp": 280825957768.48, 
         "current-capita": 11.89, 
         "global-emissions": 0.13, 
         "iso-a3": "FIN"
     }, 
     {
-        "gdp": 4943248200.04, 
         "current-capita": 3.6, 
         "global-emissions": 0.01, 
         "iso-a3": "FJI"
     }, 
     {
-        "gdp": 2782905325624.52, 
         "current-capita": 6.64, 
         "global-emissions": 0.85, 
         "iso-a3": "FRA"
     }, 
     {
-        "gdp": 427094119.11, 
         "current-capita": 2.13, 
         "global-emissions": 0.0, 
         "iso-a3": "FSM"
     }, 
     {
-        "gdp": 21071739227.94, 
         "current-capita": 2.79, 
         "global-emissions": 0.01, 
         "iso-a3": "GAB"
     }, 
     {
-        "gdp": 3070667732359.21, 
         "current-capita": 6.22, 
         "global-emissions": 0.83, 
         "iso-a3": "GBR"
     }, 
     {
-        "gdp": 24605375420.07, 
         "current-capita": 3.21, 
         "global-emissions": 0.02, 
         "iso-a3": "GEO"
     }, 
     {
-        "gdp": 72838798787.71, 
         "current-capita": 2.11, 
         "global-emissions": 0.14, 
         "iso-a3": "GHA"
     }, 
     {
-        "gdp": 21227749388.73, 
         "current-capita": 2.42, 
         "global-emissions": 0.06, 
         "iso-a3": "GIN"
     }, 
     {
-        "gdp": 2273060863.14, 
         "current-capita": 1.06, 
         "global-emissions": 0.01, 
         "iso-a3": "GMB"
     }, 
     {
-        "gdp": 1633559092.07, 
         "current-capita": 1.65, 
         "global-emissions": 0.01, 
         "iso-a3": "GNB"
     }, 
     {
-        "gdp": 11813908447.81, 
         "current-capita": 8.11, 
         "global-emissions": 0.03, 
         "iso-a3": "GNQ"
     }, 
     {
-        "gdp": 219065872466.25, 
         "current-capita": 9.08, 
         "global-emissions": 0.19, 
         "iso-a3": "GRC"
     }, 
     {
-        "gdp": 1256413185.19, 
         "current-capita": 2.97, 
         "global-emissions": 0.0, 
         "iso-a3": "GRD"
     }, 
     {
-        "gdp": 95003333381.19, 
         "current-capita": 2.39, 
         "global-emissions": 0.08, 
         "iso-a3": "GTM"
     }, 
     {
-        "gdp": 15357537068.34, 
         "current-capita": 6.66, 
         "global-emissions": 0.01, 
         "iso-a3": "GUY"
     }, 
     {
-        "gdp": 31717700115.25, 
         "current-capita": 2.29, 
         "global-emissions": 0.05, 
         "iso-a3": "HND"
     }, 
     {
-        "gdp": 70964606464.64, 
         "current-capita": 6.49, 
         "global-emissions": 0.05, 
         "iso-a3": "HRV"
     }, 
     {
-        "gdp": 20253551885.21, 
         "current-capita": 1.39, 
         "global-emissions": 0.03, 
         "iso-a3": "HTI"
     }, 
     {
-        "gdp": 178788572067.59, 
         "current-capita": 7.17, 
         "global-emissions": 0.14, 
         "iso-a3": "HUN"
     }, 
     {
-        "gdp": 1319100220389.02, 
         "current-capita": 4.37, 
         "global-emissions": 2.37, 
         "iso-a3": "IDN"
     }, 
     {
-        "gdp": 3385089881935.39, 
         "current-capita": 2.93, 
         "global-emissions": 8.15, 
         "iso-a3": "IND"
     }, 
     {
-        "gdp": 529244870222.77, 
         "current-capita": 12.58, 
         "global-emissions": 0.12, 
         "iso-a3": "IRL"
     }, 
     {
-        "gdp": 388544468139.73, 
         "current-capita": 12.26, 
         "global-emissions": 2.13, 
         "iso-a3": "IRN"
     }, 
     {
-        "gdp": 264182173793.1, 
         "current-capita": 9.1, 
         "global-emissions": 0.78, 
         "iso-a3": "IRQ"
     }, 
     {
-        "gdp": 27841648044.38, 
         "current-capita": 12.45, 
         "global-emissions": 0.01, 
         "iso-a3": "ISL"
     }, 
     {
-        "gdp": 522033446211.63, 
         "current-capita": 9.53, 
         "global-emissions": 0.17, 
         "iso-a3": "ISR"
     }, 
     {
-        "gdp": 2010431598465.38, 
         "current-capita": 6.73, 
         "global-emissions": 0.79, 
         "iso-a3": "ITA"
     }, 
     {
-        "gdp": 17097760745.21, 
         "current-capita": 3.5, 
         "global-emissions": 0.02, 
         "iso-a3": "JAM"
     }, 
     {
-        "gdp": 47451499859.15, 
         "current-capita": 2.55, 
         "global-emissions": 0.06, 
         "iso-a3": "JOR"
     }, 
     {
-        "gdp": 4231141201863.17, 
         "current-capita": 9.53, 
         "global-emissions": 2.36, 
         "iso-a3": "JPN"
     }, 
     {
-        "gdp": 220623001966.69, 
         "current-capita": 17.77, 
         "global-emissions": 0.67, 
         "iso-a3": "KAZ"
     }, 
     {
-        "gdp": 113420008178.79, 
         "current-capita": 1.87, 
         "global-emissions": 0.19, 
         "iso-a3": "KEN"
     }, 
     {
-        "gdp": 10930644915.24, 
         "current-capita": 3.31, 
         "global-emissions": 0.04, 
         "iso-a3": "KGZ"
     }, 
     {
-        "gdp": 29956769529.43, 
         "current-capita": 2.76, 
         "global-emissions": 0.09, 
         "iso-a3": "KHM"
     }, 
     {
-        "gdp": 223352943.19, 
         "current-capita": 0.89, 
         "global-emissions": 0.0, 
         "iso-a3": "KIR"
     }, 
     {
-        "gdp": 961563259.26, 
         "current-capita": 6.78, 
         "global-emissions": 0.0, 
         "iso-a3": "KNA"
     }, 
     {
-        "gdp": 1665245538594.96, 
         "current-capita": 13.56, 
         "global-emissions": 1.39, 
         "iso-a3": "KOR"
     }, 
     {
-        "gdp": 184558274288.74, 
         "current-capita": 35.03, 
         "global-emissions": 0.3, 
         "iso-a3": "KWT"
     }, 
     {
-        "gdp": 15724383783.24, 
         "current-capita": 4.89, 
         "global-emissions": 0.07, 
         "iso-a3": "LAO"
     }, 
     {
-        "gdp": "", 
         "current-capita": 4.27, 
         "global-emissions": 0.05, 
         "iso-a3": "LBN"
     }, 
     {
-        "gdp": 4001047150.0, 
         "current-capita": 0.97, 
         "global-emissions": 0.01, 
         "iso-a3": "LBR"
     }, 
     {
-        "gdp": 45752336035.98, 
         "current-capita": 13.88, 
         "global-emissions": 0.18, 
         "iso-a3": "LBY"
     }, 
     {
-        "gdp": 2065027555.56, 
         "current-capita": 3.02, 
         "global-emissions": 0.0, 
         "iso-a3": "LCA"
     }, 
     {
-        "gdp": "", 
         "current-capita": 4.45, 
         "global-emissions": 0.0, 
         "iso-a3": "LIE"
     }, 
     {
-        "gdp": 74403578363.44, 
         "current-capita": 1.8, 
         "global-emissions": 0.08, 
         "iso-a3": "LKA"
     }, 
     {
-        "gdp": 2553459762.8, 
         "current-capita": 2.05, 
         "global-emissions": 0.01, 
         "iso-a3": "LSO"
     }, 
     {
-        "gdp": 70334299008.38, 
         "current-capita": 9.47, 
         "global-emissions": 0.05, 
         "iso-a3": "LTU"
     }, 
     {
-        "gdp": 82274812250.92, 
         "current-capita": 14.61, 
         "global-emissions": 0.02, 
         "iso-a3": "LUX"
     }, 
     {
-        "gdp": 41153912662.86, 
         "current-capita": 6.64, 
         "global-emissions": 0.02, 
         "iso-a3": "LVA"
     }, 
     {
-        "gdp": 134181587769.8, 
         "current-capita": 3.0, 
         "global-emissions": 0.22, 
         "iso-a3": "MAR"
     }, 
     {
-        "gdp": "", 
         "current-capita": 2.67, 
         "global-emissions": 0.0, 
         "iso-a3": "MCO"
     }, 
     {
-        "gdp": 14420947883.6, 
         "current-capita": 3.35, 
         "global-emissions": 0.02, 
         "iso-a3": "MDA"
     }, 
     {
-        "gdp": 14954967604.41, 
         "current-capita": 1.34, 
         "global-emissions": 0.08, 
         "iso-a3": "MDG"
     }, 
     {
-        "gdp": 6189865408.23, 
         "current-capita": 4.44, 
         "global-emissions": 0.0, 
         "iso-a3": "MDV"
     }, 
     {
-        "gdp": 1414187193992.25, 
         "current-capita": 5.61, 
         "global-emissions": 1.4, 
         "iso-a3": "MEX"
     }, 
     {
-        "gdp": 279667900.0, 
         "current-capita": 3.91, 
         "global-emissions": 0.0, 
         "iso-a3": "MHL"
     }, 
     {
-        "gdp": 13563132057.25, 
         "current-capita": 4.78, 
         "global-emissions": 0.02, 
         "iso-a3": "MKD"
     }, 
     {
-        "gdp": 18827176532.32, 
         "current-capita": 2.28, 
         "global-emissions": 0.1, 
         "iso-a3": "MLI"
     }, 
     {
-        "gdp": 17765270014.76, 
         "current-capita": 4.5, 
         "global-emissions": 0.0, 
         "iso-a3": "MLT"
     }, 
     {
-        "gdp": 59364362540.55, 
         "current-capita": 2.74, 
         "global-emissions": 0.29, 
         "iso-a3": "MMR"
     }, 
     {
-        "gdp": 6095978867.7, 
         "current-capita": 5.07, 
         "global-emissions": 0.01, 
         "iso-a3": "MNE"
     }, 
     {
-        "gdp": 16810883360.91, 
         "current-capita": 27.05, 
         "global-emissions": 0.18, 
         "iso-a3": "MNG"
     }, 
     {
-        "gdp": 17851491427.68, 
         "current-capita": 1.46, 
         "global-emissions": 0.09, 
         "iso-a3": "MOZ"
     }, 
     {
-        "gdp": 10375460680.44, 
         "current-capita": 3.55, 
         "global-emissions": 0.03, 
         "iso-a3": "MRT"
     }, 
     {
-        "gdp": 12898307089.13, 
         "current-capita": 5.63, 
         "global-emissions": 0.01, 
         "iso-a3": "MUS"
     }, 
     {
-        "gdp": 13164667626.94, 
         "current-capita": 0.81, 
         "global-emissions": 0.03, 
         "iso-a3": "MWI"
     }, 
     {
-        "gdp": 406305924656.07, 
         "current-capita": 10.0, 
         "global-emissions": 0.66, 
         "iso-a3": "MYS"
     }, 
     {
-        "gdp": 12607436975.95, 
         "current-capita": 5.76, 
         "global-emissions": 0.03, 
         "iso-a3": "NAM"
     }, 
     {
-        "gdp": 13969605582.52, 
         "current-capita": 1.77, 
         "global-emissions": 0.09, 
         "iso-a3": "NER"
     }, 
     {
-        "gdp": 477386120635.85, 
         "current-capita": 1.88, 
         "global-emissions": 0.78, 
         "iso-a3": "NGA"
     }, 
     {
-        "gdp": 15671583877.97, 
         "current-capita": 3.03, 
         "global-emissions": 0.04, 
         "iso-a3": "NIC"
     }, 
     {
-        "gdp": "", 
         "current-capita": 5.22, 
         "global-emissions": 0.0, 
         "iso-a3": "NIU"
     }, 
     {
-        "gdp": 991114635529.19, 
         "current-capita": 11.04, 
         "global-emissions": 0.38, 
         "iso-a3": "NLD"
     }, 
     {
-        "gdp": 579267365866.34, 
         "current-capita": 9.91, 
         "global-emissions": 0.11, 
         "iso-a3": "NOR"
     }, 
     {
-        "gdp": 40828247302.49, 
         "current-capita": 1.71, 
         "global-emissions": 0.1, 
         "iso-a3": "NPL"
     }, 
     {
-        "gdp": 150922211.04, 
         "current-capita": 4.86, 
         "global-emissions": 0.0, 
         "iso-a3": "NRU"
     }, 
     {
-        "gdp": 247234053739.27, 
         "current-capita": 16.66, 
         "global-emissions": 0.17, 
         "iso-a3": "NZL"
     }, 
     {
-        "gdp": 114667360208.06, 
         "current-capita": 27.02, 
         "global-emissions": 0.24, 
         "iso-a3": "OMN"
     }, 
     {
-        "gdp": 376532751806.99, 
         "current-capita": 2.58, 
         "global-emissions": 1.17, 
         "iso-a3": "PAK"
     }, 
     {
-        "gdp": 76522511780.62, 
         "current-capita": 4.02, 
         "global-emissions": 0.03, 
         "iso-a3": "PAN"
     }, 
     {
-        "gdp": 242631549613.27, 
         "current-capita": 3.1, 
         "global-emissions": 0.21, 
         "iso-a3": "PER"
     }, 
     {
-        "gdp": 404284327311.71, 
         "current-capita": 2.26, 
         "global-emissions": 0.51, 
         "iso-a3": "PHL"
     }, 
     {
-        "gdp": "", 
         "current-capita": 19.31, 
         "global-emissions": 0.0, 
         "iso-a3": "PLW"
     }, 
     {
-        "gdp": 30633444294.63, 
         "current-capita": 1.9, 
         "global-emissions": 0.04, 
         "iso-a3": "PNG"
     }, 
     {
-        "gdp": 688176605954.79, 
         "current-capita": 10.77, 
         "global-emissions": 0.82, 
         "iso-a3": "POL"
     }, 
     {
-        "gdp": "", 
         "current-capita": 2.36, 
         "global-emissions": 0.12, 
         "iso-a3": "PRK"
     }, 
     {
-        "gdp": 251945377529.39, 
         "current-capita": 5.55, 
         "global-emissions": 0.11, 
         "iso-a3": "PRT"
     }, 
     {
-        "gdp": 41722295362.07, 
         "current-capita": 6.67, 
         "global-emissions": 0.09, 
         "iso-a3": "PRY"
     }, 
     {
-        "gdp": 19111900000.0, 
         "current-capita": 1.77, 
         "global-emissions": 0.02, 
         "iso-a3": "PSE"
     }, 
     {
-        "gdp": 237295575171.1, 
         "current-capita": 46.09, 
         "global-emissions": 0.25, 
         "iso-a3": "QAT"
     }, 
     {
-        "gdp": 301261582924.09, 
         "current-capita": 5.93, 
         "global-emissions": 0.23, 
         "iso-a3": "ROU"
     }, 
     {
-        "gdp": 2240422438363.27, 
         "current-capita": 18.5, 
         "global-emissions": 5.34, 
         "iso-a3": "RUS"
     }, 
     {
-        "gdp": 13312796765.23, 
         "current-capita": 0.6, 
         "global-emissions": 0.02, 
         "iso-a3": "RWA"
     }, 
     {
-        "gdp": 1108148978218.49, 
         "current-capita": 16.51, 
         "global-emissions": 1.17, 
         "iso-a3": "SAU"
     }, 
     {
-        "gdp": 51662241775.24, 
         "current-capita": 2.62, 
         "global-emissions": 0.23, 
         "iso-a3": "SDN"
     }, 
     {
-        "gdp": 27684430244.49, 
         "current-capita": 1.78, 
         "global-emissions": 0.06, 
         "iso-a3": "SEN"
     }, 
     {
-        "gdp": 466788539651.84, 
         "current-capita": 9.64, 
         "global-emissions": 0.11, 
         "iso-a3": "SGP"
     }, 
     {
-        "gdp": 1595710784.31, 
         "current-capita": 0.85, 
         "global-emissions": 0.0, 
         "iso-a3": "SLB"
     }, 
     {
-        "gdp": 3970343852.32, 
         "current-capita": 0.91, 
         "global-emissions": 0.02, 
         "iso-a3": "SLE"
     }, 
     {
-        "gdp": 32488720000.0, 
         "current-capita": 2.01, 
         "global-emissions": 0.03, 
         "iso-a3": "SLV"
     }, 
     {
-        "gdp": "", 
         "current-capita": 5.81, 
         "global-emissions": 0.0, 
         "iso-a3": "SMR"
     }, 
     {
-        "gdp": 8126105600.0, 
         "current-capita": 1.89, 
         "global-emissions": 0.06, 
         "iso-a3": "SOM"
     }, 
     {
-        "gdp": 63501748652.3, 
         "current-capita": 9.85, 
         "global-emissions": 0.14, 
         "iso-a3": "SRB"
     }, 
     {
-        "gdp": "", 
         "current-capita": 3.61, 
         "global-emissions": 0.08, 
         "iso-a3": "SSD"
     }, 
     {
-        "gdp": 546680341.65, 
         "current-capita": 1.0, 
         "global-emissions": 0.0, 
         "iso-a3": "STP"
     }, 
     {
-        "gdp": 3620655116.22, 
         "current-capita": 6.99, 
         "global-emissions": 0.01, 
         "iso-a3": "SUR"
     }, 
     {
-        "gdp": 115468803971.54, 
         "current-capita": 8.33, 
         "global-emissions": 0.09, 
         "iso-a3": "SVK"
     }, 
     {
-        "gdp": 62117768014.86, 
         "current-capita": 7.82, 
         "global-emissions": 0.03, 
         "iso-a3": "SVN"
     }, 
     {
-        "gdp": 585939170123.86, 
         "current-capita": 5.33, 
         "global-emissions": 0.11, 
         "iso-a3": "SWE"
     }, 
     {
-        "gdp": 4854167638.37, 
         "current-capita": 3.78, 
         "global-emissions": 0.01, 
         "iso-a3": "SWZ"
     }, 
     {
-        "gdp": 1588406479.16, 
         "current-capita": 6.16, 
         "global-emissions": 0.0, 
         "iso-a3": "SYC"
     }, 
     {
-        "gdp": "", 
         "current-capita": 2.45, 
         "global-emissions": 0.1, 
         "iso-a3": "SYR"
     }, 
     {
-        "gdp": 12704149842.04, 
         "current-capita": 2.42, 
         "global-emissions": 0.08, 
         "iso-a3": "TCD"
     }, 
     {
-        "gdp": 8126439480.61, 
         "current-capita": 1.36, 
         "global-emissions": 0.02, 
         "iso-a3": "TGO"
     }, 
     {
-        "gdp": 495340592811.19, 
         "current-capita": 5.88, 
         "global-emissions": 0.83, 
         "iso-a3": "THA"
     }, 
     {
-        "gdp": 10492123387.79, 
         "current-capita": 1.81, 
         "global-emissions": 0.03, 
         "iso-a3": "TJK"
     }, 
     {
-        "gdp": "", 
         "current-capita": 23.28, 
         "global-emissions": 0.29, 
         "iso-a3": "TKM"
     }, 
     {
-        "gdp": 3163324631.03, 
         "current-capita": 1.98, 
         "global-emissions": 0.01, 
         "iso-a3": "TLS"
     }, 
     {
-        "gdp": "", 
         "current-capita": 3.05, 
         "global-emissions": 0.0, 
         "iso-a3": "TON"
     }, 
     {
-        "gdp": 27899082337.37, 
         "current-capita": 35.11, 
         "global-emissions": 0.11, 
         "iso-a3": "TTO"
     }, 
     {
-        "gdp": 46664948951.66, 
         "current-capita": 3.25, 
         "global-emissions": 0.08, 
         "iso-a3": "TUN"
     }, 
     {
-        "gdp": 905987824096.13, 
         "current-capita": 7.11, 
         "global-emissions": 1.19, 
         "iso-a3": "TUR"
     }, 
     {
-        "gdp": 60349391.1, 
         "current-capita": 2.13, 
         "global-emissions": 0.0, 
         "iso-a3": "TUV"
     }, 
     {
-        "gdp": 75709289056.45, 
         "current-capita": 1.58, 
         "global-emissions": 0.2, 
         "iso-a3": "TZA"
     }, 
     {
-        "gdp": 45559202048.73, 
         "current-capita": 1.14, 
         "global-emissions": 0.1, 
         "iso-a3": "UGA"
     }, 
     {
-        "gdp": 160502739236.1, 
         "current-capita": 6.21, 
         "global-emissions": 0.54, 
         "iso-a3": "UKR"
     }, 
     {
-        "gdp": 71177146197.5, 
         "current-capita": 12.46, 
         "global-emissions": 0.08, 
         "iso-a3": "URY"
     }, 
     {
-        "gdp": 25462700000000.0, 
         "current-capita": 17.47, 
         "global-emissions": 11.66, 
         "iso-a3": "USA"
     }, 
     {
-        "gdp": 80391853884.76, 
         "current-capita": 5.85, 
         "global-emissions": 0.39, 
         "iso-a3": "UZB"
     }, 
     {
-        "gdp": "", 
-        "current-capita": "", 
-        "global-emissions": "", 
+        "current-capita": "NaN", 
+        "global-emissions": "NaN", 
         "iso-a3": "VAT"
     }, 
     {
-        "gdp": 948558503.13, 
         "current-capita": 3.37, 
         "global-emissions": 0.0, 
         "iso-a3": "VCT"
     }, 
     {
-        "gdp": "", 
         "current-capita": 5.82, 
         "global-emissions": 0.33, 
         "iso-a3": "VEN"
     }, 
     {
-        "gdp": 408802379068.23, 
         "current-capita": 4.17, 
         "global-emissions": 0.8, 
         "iso-a3": "VNM"
     }, 
     {
-        "gdp": 983582864.56, 
         "current-capita": 1.87, 
         "global-emissions": 0.0, 
         "iso-a3": "VUT"
     }, 
     {
-        "gdp": 832421565.37, 
         "current-capita": 2.46, 
         "global-emissions": 0.0, 
         "iso-a3": "WSM"
     }, 
     {
-        "gdp": "", 
         "current-capita": 1.12, 
         "global-emissions": 0.07, 
         "iso-a3": "YEM"
     }, 
     {
-        "gdp": 405869718462.34, 
         "current-capita": 9.08, 
         "global-emissions": 1.06, 
         "iso-a3": "ZAF"
     }, 
     {
-        "gdp": 29784454055.94, 
         "current-capita": 2.04, 
         "global-emissions": 0.08, 
         "iso-a3": "ZMB"
     }, 
     {
-        "gdp": 20678055597.73, 
         "current-capita": 1.78, 
         "global-emissions": 0.06, 
         "iso-a3": "ZWE"
     }, 
     {
-        "gdp": "", 
         "current-capita": 2.2, 
         "global-emissions": 6.1, 
         "iso-a3": "CVF"
     }, 
     {
-        "gdp": "", 
         "current-capita": 8.1, 
         "global-emissions": 78.5, 
         "iso-a3": "G20"
     }, 
     {
-        "gdp": 16641391923811.1, 
         "current-capita": 8.1, 
         "global-emissions": 7.2, 
         "iso-a3": "EU"
     }, 
     {
-        "gdp": "", 
         "current-capita": 11.7, 
         "global-emissions": 23.5, 
         "iso-a3": "G7"
     }, 
     {
-        "gdp": 27610090523673.8, 
         "current-capita": 17.7, 
         "global-emissions": 13.1, 
         "iso-a3": "NA"
     }, 
     {
-        "gdp": "", 
         "current-capita": 20.1, 
         "global-emissions": 1.2, 
         "iso-a3": "AU"
     }, 
     {
-        "gdp": "", 
         "current-capita": 2.5, 
         "global-emissions": 6.8, 
         "iso-a3": "AF"
     }, 
     {
-        "gdp": "", 
         "current-capita": 4.3, 
         "global-emissions": 0.6, 
         "iso-a3": "SIDS"
     }, 
     {
-        "gdp": "", 
         "current-capita": 1.8, 
         "global-emissions": 3.9, 
         "iso-a3": "LDC"
     }, 
     {
-        "gdp": "", 
         "current-capita": 15.1, 
         "global-emissions": 18.2, 
         "iso-a3": "UM"
     }, 
     {
-        "gdp": "", 
         "current-capita": 7.8, 
         "global-emissions": 8.2, 
         "iso-a3": "EG"
     }, 
     {
-        "gdp": 100562011134034.0, 
         "current-capita": 6.4, 
         "global-emissions": 100.0, 
         "iso-a3": "WORLD"

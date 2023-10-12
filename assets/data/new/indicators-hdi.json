@@ -1957,6 +1957,38 @@
       "Expected years of schooling": 12.8,
       "Gross national income (GNI) per capita": "16,752",
       "Life expectancy at birth": 71.4,
-      "hdi": 0.732
-  }
+      "hdi": 0.706
+    },
+    {
+      "iso-a3": "CVF",
+      "hdi": 0.588
+    },
+    {
+      "iso-a3": "G20",
+      "hdi": 0.761
+    },
+    {
+      "iso-a3": "EU",
+      "hdi": 0.903
+    },
+    {
+      "iso-a3": "G7",
+      "hdi": 0.915
+    },
+    {
+      "iso-a3": "AU",
+      "hdi": 0.949
+    },
+    {
+      "iso-a3": "AF",
+      "hdi": 0.551
+    },
+    {
+      "iso-a3": "SIDS",
+      "hdi": 0.521
+    },
+    {
+      "iso-a3": "LDC",
+      "hdi": 0.521
+    }
 ]
